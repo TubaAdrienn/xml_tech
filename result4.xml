@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heroes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="task4.xsd">
+    <hero id="496">
+        <name>Nova</name>
+        <avg>90</avg>
+        <powerstats>
+            <intelligence>100</intelligence>
+            <strength>85</strength>
+            <speed>75</speed>
+            <power>100</power>
+            <durability>100</durability>
+            <combat>80</combat>
+        </powerstats>
+    </hero>
+    <hero id="346">
+        <name>Iron Man</name>
+        <avg>82</avg>
+        <powerstats>
+            <intelligence>100</intelligence>
+            <strength>85</strength>
+            <speed>58</speed>
+            <power>100</power>
+            <durability>85</durability>
+            <combat>64</combat>
+        </powerstats>
+    </hero>
+    <hero id="703">
+        <name>War Machine</name>
+        <avg>81.833</avg>
+        <powerstats>
+            <intelligence>63</intelligence>
+            <strength>80</strength>
+            <speed>63</speed>
+            <power>100</power>
+            <durability>100</durability>
+            <combat>85</combat>
+        </powerstats>
+    </hero>
+    <hero id="620">
+        <name>Spider-Man</name>
+        <avg>74.333</avg>
+        <powerstats>
+            <intelligence>90</intelligence>
+            <strength>55</strength>
+            <speed>67</speed>
+            <power>74</power>
+            <durability>75</durability>
+            <combat>85</combat>
+        </powerstats>
+    </hero>
+    <hero id="374">
+        <name>Juggernaut</name>
+        <avg>73.5</avg>
+        <powerstats>
+            <intelligence>44</intelligence>
+            <strength>100</strength>
+            <speed>42</speed>
+            <power>85</power>
+            <durability>100</durability>
+            <combat>70</combat>
+        </powerstats>
+    </hero>
+</heroes>

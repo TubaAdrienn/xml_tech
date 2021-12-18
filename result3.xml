@@ -1,0 +1,3505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<heroes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="task3.xsd">
+    <hero id="1">
+        <name>A-Bomb</name>
+        <aliases>
+            <alias>Rick Jones</alias>
+        </aliases>
+    </hero>
+    <hero id="2">
+        <name>Abe Sapien</name>
+        <aliases>
+            <alias>Langdon Everett Caul</alias>
+            <alias>Abraham Sapien</alias>
+            <alias>Langdon Caul</alias>
+        </aliases>
+    </hero>
+    <hero id="3">
+        <name>Abin Sur</name>
+        <aliases>
+            <alias>Lagzia</alias>
+        </aliases>
+    </hero>
+    <hero id="4">
+        <name>Abomination</name>
+        <aliases>
+            <alias>Agent R-7</alias>
+            <alias>Ravager of Worlds</alias>
+        </aliases>
+    </hero>
+    <hero id="6">
+        <name>Absorbing Man</name>
+        <aliases>
+            <alias>Greithoth</alias>
+            <alias>"Crusher" Creel</alias>
+            <alias>Rocky Davis</alias>
+            <alias>Dynamite Davis</alias>
+            <alias>Lightningbolt</alias>
+            <alias>Prisoner #24957</alias>
+        </aliases>
+    </hero>
+    <hero id="7">
+        <name>Adam Monroe</name>
+        <aliases>
+            <alias>Takezo Kensei</alias>
+            <alias>Richard Sanders</alias>
+        </aliases>
+    </hero>
+    <hero id="8">
+        <name>Adam Strange</name>
+        <aliases>
+            <alias>Warrior of Two Worlds</alias>
+            <alias>Savior of Rann</alias>
+        </aliases>
+    </hero>
+    <hero id="10">
+        <name>Agent Bob</name>
+        <aliases>
+            <alias>Bob</alias>
+            <alias>agent of Hydra</alias>
+            <alias>Bob</alias>
+            <alias>agent of A.I.M</alias>
+        </aliases>
+    </hero>
+    <hero id="11">
+        <name>Agent Zero</name>
+        <aliases>
+            <alias>Maverick</alias>
+        </aliases>
+    </hero>
+    <hero id="13">
+        <name>Ajax</name>
+        <aliases>
+            <alias>"Frankie"</alias>
+            <alias>the A-Man</alias>
+            <alias>the Attending</alias>
+        </aliases>
+    </hero>
+    <hero id="14">
+        <name>Alan Scott</name>
+        <aliases>
+            <alias>Green Lantern</alias>
+            <alias>White King</alias>
+            <alias>Sentinal</alias>
+        </aliases>
+    </hero>
+    <hero id="15">
+        <name>Alex Mercer</name>
+        <aliases>
+            <alias>Prototype</alias>
+            <alias>Zues</alias>
+            <alias>Blacklight</alias>
+        </aliases>
+    </hero>
+    <hero id="17">
+        <name>Alfred Pennyworth</name>
+        <aliases>
+            <alias>Alfred Beagle</alias>
+        </aliases>
+    </hero>
+    <hero id="20">
+        <name>Amazo</name>
+        <aliases>
+            <alias>Professor Ivos Amazing Android</alias>
+            <alias>Timazo</alias>
+            <alias>Humazo</alias>
+            <alias>Hourmazo</alias>
+        </aliases>
+    </hero>
+    <hero id="23">
+        <name>Angel</name>
+        <aliases>
+            <alias>Angelus</alias>
+            <alias>Twilight</alias>
+        </aliases>
+    </hero>
+    <hero id="24">
+        <name>Angel</name>
+        <aliases>
+            <alias>Formerly Death</alias>
+            <alias>Dark Angel</alias>
+            <alias>Angel</alias>
+            <alias>Avenging Angel</alias>
+            <alias>Archangel</alias>
+        </aliases>
+    </hero>
+    <hero id="25">
+        <name>Angel Dust</name>
+        <aliases>
+            <alias>Angel</alias>
+            <alias>Dusty</alias>
+        </aliases>
+    </hero>
+    <hero id="26">
+        <name>Angel Salvadore</name>
+        <aliases>
+            <alias>Tempest</alias>
+        </aliases>
+    </hero>
+    <hero id="28">
+        <name>Animal Man</name>
+        <aliases>
+            <alias>The Human Zoo; A-Man; The Man with Animal Powers</alias>
+        </aliases>
+    </hero>
+    <hero id="29">
+        <name>Annihilus</name>
+        <aliases>
+            <alias>The Living Death That Walks</alias>
+            <alias>Lord of the Negative Zone</alias>
+        </aliases>
+    </hero>
+    <hero id="30">
+        <name>Ant-Man</name>
+        <aliases>
+            <alias>Hank Pym</alias>
+            <alias>Doctor Pym</alias>
+            <alias>Ant-Man</alias>
+            <alias>Goliath</alias>
+            <alias>Yellowjacket</alias>
+            <alias>Wasp</alias>
+            <alias>Earth's Scientist Supreme</alias>
+        </aliases>
+    </hero>
+    <hero id="31">
+        <name>Ant-Man II</name>
+        <aliases>
+            <alias>Myrmidon</alias>
+            <alias>Scott Edward Harris Lang</alias>
+        </aliases>
+    </hero>
+    <hero id="32">
+        <name>Anti-Monitor</name>
+        <aliases>
+            <alias>Monitor</alias>
+            <alias>Mobius</alias>
+        </aliases>
+    </hero>
+    <hero id="34">
+        <name>Anti-Venom</name>
+        <aliases>
+            <alias>Eddie</alias>
+            <alias>Edwin Brock</alias>
+            <alias>Venom</alias>
+            <alias>Lethal Protector</alias>
+            <alias>White Venom</alias>
+            <alias>998th</alias>
+        </aliases>
+    </hero>
+    <hero id="35">
+        <name>Apocalypse</name>
+        <aliases>
+            <alias>The Eternal One</alias>
+            <alias>the High Lord</alias>
+            <alias>Set</alias>
+            <alias>Huitxilopochti</alias>
+            <alias>Sauru</alias>
+            <alias>Kali-Ma</alias>
+        </aliases>
+    </hero>
+    <hero id="38">
+        <name>Aquaman</name>
+        <aliases>
+            <alias>Dweller in the Depths</alias>
+            <alias>Swimmer</alias>
+            <alias>Waterbearer</alias>
+            <alias>Mental Man</alias>
+            <alias>Aquaboy</alias>
+            <alias>Water Wraith</alias>
+        </aliases>
+    </hero>
+    <hero id="39">
+        <name>Arachne</name>
+        <aliases>
+            <alias>Spider-Woman</alias>
+            <alias>Madame Web</alias>
+        </aliases>
+    </hero>
+    <hero id="40">
+        <name>Archangel</name>
+        <aliases>
+            <alias>War</alias>
+            <alias>Dark Angel</alias>
+            <alias>Death</alias>
+            <alias>Avenging Angel</alias>
+        </aliases>
+    </hero>
+    <hero id="43">
+        <name>Ares</name>
+        <aliases>
+            <alias>God of War</alias>
+            <alias>Mister Talon</alias>
+            <alias>Mars</alias>
+            <alias>Warhawk</alias>
+        </aliases>
+    </hero>
+    <hero id="45">
+        <name>Armor</name>
+        <aliases>
+            <alias>X-Girl</alias>
+            <alias>Kid</alias>
+        </aliases>
+    </hero>
+    <hero id="48">
+        <name>Atlas</name>
+        <aliases>
+            <alias>Power Man</alias>
+            <alias>Smuggler</alias>
+            <alias>Goliath</alias>
+            <alias>Shatterfist</alias>
+            <alias>Intruder from Beyond</alias>
+            <alias>Edward Jantzen</alias>
+        </aliases>
+    </hero>
+    <hero id="49">
+        <name>Atlas</name>
+        <aliases>
+            <alias>Atlas the Great</alias>
+            <alias>Atlas the Untamed</alias>
+        </aliases>
+    </hero>
+    <hero id="52">
+        <name>Atom Girl</name>
+        <aliases>
+            <alias>Shrinking Violet</alias>
+        </aliases>
+    </hero>
+    <hero id="53">
+        <name>Atom II</name>
+        <aliases>
+            <alias>The Mighty Mite</alias>
+            <alias>the Tiny Titan</alias>
+            <alias>the World's Smallest Hero</alias>
+        </aliases>
+    </hero>
+    <hero id="56">
+        <name>Aurora</name>
+        <aliases>
+            <alias>Sister Beaubier</alias>
+        </aliases>
+    </hero>
+    <hero id="57">
+        <name>Azazel</name>
+        <aliases>
+            <alias>Semihazah</alias>
+            <alias>Duma</alias>
+            <alias>Keriel</alias>
+            <alias>Mastema</alias>
+            <alias>Beliar</alias>
+            <alias>Gadreel</alias>
+            <alias>Beelzebub</alias>
+            <alias>Satan</alias>
+        </aliases>
+    </hero>
+    <hero id="58">
+        <name>Azrael</name>
+        <aliases>
+            <alias>Bat-Devil; Bat-Ghost</alias>
+        </aliases>
+    </hero>
+    <hero id="61">
+        <name>Banshee</name>
+        <aliases>
+            <alias>Death</alias>
+        </aliases>
+    </hero>
+    <hero id="63">
+        <name>Batgirl</name>
+        <aliases>
+            <alias>Oracle</alias>
+            <alias>Bluebelle</alias>
+        </aliases>
+    </hero>
+    <hero id="66">
+        <name>Batgirl IV</name>
+        <aliases>
+            <alias>Kasumi</alias>
+            <alias>various mundane persona,</alias>
+        </aliases>
+    </hero>
+    <hero id="68">
+        <name>Batgirl VI</name>
+        <aliases>
+            <alias>Steph</alias>
+            <alias>Robin</alias>
+            <alias>Marion Todd</alias>
+            <alias>Spoiler</alias>
+        </aliases>
+    </hero>
+    <hero id="69">
+        <name>Batman</name>
+        <aliases>
+            <alias>Batman II</alias>
+            <alias>The Tomorrow Knight</alias>
+            <alias>The second Dark Knight</alias>
+            <alias>The Dark Knight of Tomorrow</alias>
+            <alias>Batman Beyond</alias>
+        </aliases>
+    </hero>
+    <hero id="70">
+        <name>Batman</name>
+        <aliases>
+            <alias>Insider</alias>
+            <alias>Matches Malone</alias>
+        </aliases>
+    </hero>
+    <hero id="71">
+        <name>Batman II</name>
+        <aliases>
+            <alias>Dick Grayson</alias>
+        </aliases>
+    </hero>
+    <hero id="72">
+        <name>Battlestar</name>
+        <aliases>
+            <alias>Bucky</alias>
+        </aliases>
+    </hero>
+    <hero id="75">
+        <name>Beast</name>
+        <aliases>
+            <alias>Dr. McCoy</alias>
+            <alias>Hanko</alias>
+            <alias>Kreature</alias>
+            <alias>Mutate #666</alias>
+            <alias>Magilla Gorilla</alias>
+            <alias>Golden Armed Boy</alias>
+        </aliases>
+    </hero>
+    <hero id="76">
+        <name>Beast Boy</name>
+        <aliases>
+            <alias>Changeling</alias>
+            <alias>Beast-Brat</alias>
+            <alias>Green Jeans</alias>
+            <alias>Salad-head</alias>
+            <alias>Sprout</alias>
+            <alias>Tork</alias>
+            <alias>Craig Logan</alias>
+        </aliases>
+    </hero>
+    <hero id="78">
+        <name>Ben 10</name>
+        <aliases>
+            <alias>Ben Ten</alias>
+        </aliases>
+    </hero>
+    <hero id="79">
+        <name>Beta Ray Bill</name>
+        <aliases>
+            <alias>Beta Ray Thor</alias>
+            <alias>Simon Walters</alias>
+        </aliases>
+    </hero>
+    <hero id="80">
+        <name>Beyonder</name>
+        <aliases>
+            <alias>Ataxi</alias>
+            <alias>The Beyond Realm</alias>
+            <alias>Frank</alias>
+            <alias>Goblin Force</alias>
+            <alias>Goblin King</alias>
+            <alias>Goblyn King</alias>
+            <alias>Goblin Queen</alias>
+            <alias>The One From Beyond</alias>
+            <alias>God</alias>
+            <alias>Kosmos</alias>
+            <alias>Maker</alias>
+        </aliases>
+    </hero>
+    <hero id="81">
+        <name>Big Barda</name>
+        <aliases>
+            <alias>Barda</alias>
+            <alias>the Strongest Woman in the World</alias>
+        </aliases>
+    </hero>
+    <hero id="83">
+        <name>Big Man</name>
+        <aliases>
+            <alias>Patch</alias>
+        </aliases>
+    </hero>
+    <hero id="87">
+        <name>Bionic Woman</name>
+        <aliases>
+            <alias>Clarissa Whyte</alias>
+        </aliases>
+    </hero>
+    <hero id="88">
+        <name>Bird-Brain</name>
+        <aliases>
+            <alias>Bird-Boy</alias>
+        </aliases>
+    </hero>
+    <hero id="92">
+        <name>Bishop</name>
+        <aliases>
+            <alias>Archbishop</alias>
+        </aliases>
+    </hero>
+    <hero id="95">
+        <name>Black Adam</name>
+        <aliases>
+            <alias>Hassan Bari</alias>
+            <alias>Theo Adam</alias>
+            <alias>Mighty Adam</alias>
+            <alias>Khem-Adam</alias>
+        </aliases>
+    </hero>
+    <hero id="97">
+        <name>Black Canary</name>
+        <aliases>
+            <alias>Dinah Laurel Lance Queen; Dinah Laurel Lance-Windrow</alias>
+        </aliases>
+    </hero>
+    <hero id="99">
+        <name>Black Cat</name>
+        <aliases>
+            <alias>Felicity Harmon</alias>
+        </aliases>
+    </hero>
+    <hero id="100">
+        <name>Black Flash</name>
+        <aliases>
+            <alias>Barry Allen</alias>
+            <alias>Flashback</alias>
+            <alias>Slow Lightning</alias>
+            <alias>Black Racer</alias>
+            <alias>Death Flash</alias>
+            <alias>God of Death</alias>
+        </aliases>
+    </hero>
+    <hero id="102">
+        <name>Black Knight III</name>
+        <aliases>
+            <alias>The Pendragon</alias>
+            <alias>Gann Josin</alias>
+            <alias>Eobar Garrington</alias>
+        </aliases>
+    </hero>
+    <hero id="104">
+        <name>Black Mamba</name>
+        <aliases>
+            <alias>Tanya Sweet</alias>
+        </aliases>
+    </hero>
+    <hero id="105">
+        <name>Black Manta</name>
+        <aliases>
+            <alias>Devil Ray</alias>
+            <alias>Scourge of the Seven Seas</alias>
+            <alias>Yellow Lantern</alias>
+        </aliases>
+    </hero>
+    <hero id="106">
+        <name>Black Panther</name>
+        <aliases>
+            <alias>Mr. Okonkwo</alias>
+            <alias>The Man Without Fear</alias>
+            <alias>Luke Charles</alias>
+            <alias>Black Leopard</alias>
+            <alias>the Client</alias>
+            <alias>Coal Tiger</alias>
+            <alias>has impersonated Daredevil and others on occasion</alias>
+        </aliases>
+    </hero>
+    <hero id="107">
+        <name>Black Widow</name>
+        <aliases>
+            <alias>Yelena Belova</alias>
+            <alias>Natasha Romanoff</alias>
+            <alias>Natasha</alias>
+            <alias>Tasha</alias>
+            <alias>Madame Natasha</alias>
+            <alias>Nancy Rushman</alias>
+            <alias>Laura Matthers</alias>
+            <alias>Nadine Roman</alias>
+            <alias>"Oktober"</alias>
+            <alias>Black Pearl</alias>
+            <alias>Ebon Flame</alias>
+        </aliases>
+    </hero>
+    <hero id="110">
+        <name>Blackwing</name>
+        <aliases>
+            <alias>Blackwing</alias>
+            <alias>Joe Manfredi</alias>
+            <alias>Joe Silvermane</alias>
+            <alias>Guiseppi Manfredi</alias>
+        </aliases>
+    </hero>
+    <hero id="111">
+        <name>Blackwulf</name>
+        <aliases>
+            <alias>Pelops</alias>
+            <alias>Black Wolf</alias>
+        </aliases>
+    </hero>
+    <hero id="112">
+        <name>Blade</name>
+        <aliases>
+            <alias>Switchblade</alias>
+            <alias>Frank Blade</alias>
+            <alias>Daywalker</alias>
+        </aliases>
+    </hero>
+    <hero id="121">
+        <name>Bloodhawk</name>
+        <aliases>
+            <alias>Lemuel Halcon</alias>
+        </aliases>
+    </hero>
+    <hero id="126">
+        <name>Blue Beetle III</name>
+        <aliases>
+            <alias>Scooter</alias>
+        </aliases>
+    </hero>
+    <hero id="127">
+        <name>Boba Fett</name>
+        <aliases>
+            <alias>Teff</alias>
+            <alias>Sava Brek Madak</alias>
+            <alias>Jaster Mereel</alias>
+            <alias>Mandalore</alias>
+            <alias>Mand'alor</alias>
+        </aliases>
+    </hero>
+    <hero id="130">
+        <name>Boom-Boom</name>
+        <aliases>
+            <alias>Time Bomb</alias>
+            <alias>Boomer</alias>
+            <alias>Meltdown</alias>
+            <alias>Tabby</alias>
+            <alias>Firecracker</alias>
+            <alias>Mutate #35</alias>
+            <alias>Nancy Forrester</alias>
+        </aliases>
+    </hero>
+    <hero id="135">
+        <name>Box IV</name>
+        <aliases>
+            <alias>Gemini</alias>
+            <alias>Jack-In-The-Box</alias>
+        </aliases>
+    </hero>
+    <hero id="136">
+        <name>Brainiac</name>
+        <aliases>
+            <alias>Milton Fine</alias>
+        </aliases>
+    </hero>
+    <hero id="139">
+        <name>Brundlefly</name>
+        <aliases>
+            <alias>The Fly</alias>
+        </aliases>
+    </hero>
+    <hero id="140">
+        <name>Buffy</name>
+        <aliases>
+            <alias>Anne</alias>
+            <alias>The Chosen One</alias>
+            <alias>The Vampire Slayer</alias>
+            <alias>The Slayer</alias>
+            <alias>Buff</alias>
+            <alias>B</alias>
+            <alias>The Buffster</alias>
+            <alias>Belinda</alias>
+            <alias>Joan</alias>
+        </aliases>
+    </hero>
+    <hero id="141">
+        <name>Bullseye</name>
+        <aliases>
+            <alias>Benjamin Poindexter</alias>
+            <alias>Daredevil</alias>
+            <alias>Punisher</alias>
+            <alias>Bullseye</alias>
+            <alias>Hawkeye</alias>
+            <alias>pitcher</alias>
+        </aliases>
+    </hero>
+    <hero id="145">
+        <name>Cable</name>
+        <aliases>
+            <alias>Chosen One</alias>
+            <alias>Soldier X</alias>
+            <alias>Nathan Dayspring</alias>
+            <alias>Askani'son</alias>
+            <alias>Nathan Dayspring Summers</alias>
+            <alias>Nathan Winters</alias>
+            <alias>The Traveller</alias>
+            <alias>The Saviour</alias>
+        </aliases>
+    </hero>
+    <hero id="148">
+        <name>Cannonball</name>
+        <aliases>
+            <alias>Formerly Samson Guthry</alias>
+            <alias>Sam Guthrie</alias>
+            <alias>Jet-Ass</alias>
+        </aliases>
+    </hero>
+    <hero id="149">
+        <name>Captain America</name>
+        <aliases>
+            <alias>Nomad</alias>
+            <alias>The Captain</alias>
+        </aliases>
+    </hero>
+    <hero id="150">
+        <name>Captain Atom</name>
+        <aliases>
+            <alias>Monarch</alias>
+            <alias>Allen Adam</alias>
+            <alias>Cameron Scott</alias>
+        </aliases>
+    </hero>
+    <hero id="151">
+        <name>Captain Britain</name>
+        <aliases>
+            <alias>Britannic</alias>
+            <alias>Black Bishop</alias>
+            <alias>Jungle Man</alias>
+            <alias>King of Otherworld</alias>
+            <alias>Merlinson</alias>
+        </aliases>
+    </hero>
+    <hero id="152">
+        <name>Captain Cold</name>
+        <aliases>
+            <alias>Citizen Cold</alias>
+            <alias>Kid Kold</alias>
+            <alias>Len Snart</alias>
+            <alias>Leonard Snart</alias>
+            <alias>Leonards Wynters</alias>
+            <alias>The Man Who Mastered Absolute Zero</alias>
+        </aliases>
+    </hero>
+    <hero id="156">
+        <name>Captain Marvel</name>
+        <aliases>
+            <alias>The World's Mightiest Mortal</alias>
+            <alias>The Big Red Cheese</alias>
+            <alias>Captain Thunder</alias>
+            <alias>Shazam</alias>
+        </aliases>
+    </hero>
+    <hero id="157">
+        <name>Captain Marvel</name>
+        <aliases>
+            <alias>Ace</alias>
+            <alias>Binary</alias>
+            <alias>Lady Marvel</alias>
+            <alias>Warbird</alias>
+            <alias>others used during her espionage career</alias>
+        </aliases>
+    </hero>
+    <hero id="158">
+        <name>Captain Marvel II</name>
+        <aliases>
+            <alias>Captain Marvel Jr.</alias>
+            <alias>CM3</alias>
+        </aliases>
+    </hero>
+    <hero id="160">
+        <name>Captain Planet</name>
+        <aliases>
+            <alias>The Captain</alias>
+            <alias>CP</alias>
+            <alias>Planet</alias>
+        </aliases>
+    </hero>
+    <hero id="162">
+        <name>Carnage</name>
+        <aliases>
+            <alias>Mass Carnage</alias>
+            <alias>999th</alias>
+        </aliases>
+    </hero>
+    <hero id="165">
+        <name>Catwoman</name>
+        <aliases>
+            <alias>The Cat</alias>
+            <alias>Irena Dubrovna</alias>
+            <alias>Elva Barr</alias>
+            <alias>Sadie Kelowski</alias>
+            <alias>Madame Moderne</alias>
+            <alias>Marguerite Tone</alias>
+        </aliases>
+    </hero>
+    <hero id="169">
+        <name>Chamber</name>
+        <aliases>
+            <alias>Decibel</alias>
+            <alias>Jono</alias>
+            <alias>Jono Hex</alias>
+        </aliases>
+    </hero>
+    <hero id="170">
+        <name>Chameleon</name>
+        <aliases>
+            <alias>Dr. Ashley Kafka</alias>
+            <alias>Dr. Turner</alias>
+            <alias>J. Jonah Jameson</alias>
+            <alias>Torpedo</alias>
+            <alias>Rick Jones</alias>
+            <alias>Dr. Henry Pym</alias>
+            <alias>Peter Parker</alias>
+            <alias>Captain George Stacy</alias>
+            <alias>Dr. Robert Bruce Banner</alias>
+            <alias>General</alias>
+        </aliases>
+    </hero>
+    <hero id="171">
+        <name>Changeling</name>
+        <aliases>
+            <alias>Professor X</alias>
+            <alias>Professor Charles Xavier</alias>
+        </aliases>
+    </hero>
+    <hero id="172">
+        <name>Cheetah</name>
+        <aliases>
+            <alias>Kay Carlton</alias>
+            <alias>The Cheetah</alias>
+        </aliases>
+    </hero>
+    <hero id="174">
+        <name>Cheetah III</name>
+        <aliases>
+            <alias>Barbara Minerva</alias>
+            <alias>Bride of Urzkartaga</alias>
+            <alias>Priscilla Rich</alias>
+            <alias>Deborah Domaine</alias>
+            <alias>Sabrina Ballesteros</alias>
+        </aliases>
+    </hero>
+    <hero id="176">
+        <name>Chuck Norris</name>
+        <aliases>
+            <alias>Chuck</alias>
+        </aliases>
+    </hero>
+    <hero id="177">
+        <name>Citizen Steel</name>
+        <aliases>
+            <alias>Buckeye</alias>
+            <alias>Uncle Nate</alias>
+            <alias>Uncle Nathan</alias>
+        </aliases>
+    </hero>
+    <hero id="178">
+        <name>Claire Bennet</name>
+        <aliases>
+            <alias>Vivian Lewis</alias>
+            <alias>Claire Butler</alias>
+        </aliases>
+    </hero>
+    <hero id="181">
+        <name>Clock King</name>
+        <aliases>
+            <alias>Tempus Fugit</alias>
+        </aliases>
+    </hero>
+    <hero id="185">
+        <name>Colossus</name>
+        <aliases>
+            <alias>Pete</alias>
+            <alias>Peter Nicholas</alias>
+            <alias>The Proletarian</alias>
+            <alias>Little Brother</alias>
+        </aliases>
+    </hero>
+    <hero id="186">
+        <name>Copycat</name>
+        <aliases>
+            <alias>Nurse Veronica</alias>
+            <alias>Patricia Muggins</alias>
+            <alias>Titania</alias>
+            <alias>Garrison Kane</alias>
+            <alias>Christina Valentino</alias>
+            <alias>Domino</alias>
+            <alias>Cheryl Marks</alias>
+            <alias>Debbie</alias>
+            <alias>Marguerite</alias>
+            <alias>Amy</alias>
+        </aliases>
+    </hero>
+    <hero id="188">
+        <name>Cottonmouth</name>
+        <aliases>
+            <alias>Quincy McIver</alias>
+        </aliases>
+    </hero>
+    <hero id="191">
+        <name>Crystal</name>
+        <aliases>
+            <alias>Crys</alias>
+            <alias>Exquisite Elemental</alias>
+        </aliases>
+    </hero>
+    <hero id="194">
+        <name>Cyborg</name>
+        <aliases>
+            <alias>Cyberion Technis</alias>
+            <alias>Omegadrome</alias>
+            <alias>Planet Cyberion</alias>
+        </aliases>
+    </hero>
+    <hero id="195">
+        <name>Cyborg Superman</name>
+        <aliases>
+            <alias>Grandmaster of the Manhunters</alias>
+            <alias>Herald of the Anti-Monitor</alias>
+            <alias>Alpha-Prime of the Alpha Lanterns</alias>
+        </aliases>
+    </hero>
+    <hero id="196">
+        <name>Cyclops</name>
+        <aliases>
+            <alias>Scotty</alias>
+            <alias>Cyke</alias>
+            <alias>Slim</alias>
+            <alias>Fearless Leader</alias>
+            <alias>One-Eye</alias>
+            <alias>Erik the Red</alias>
+            <alias>Slym Dayspring</alias>
+            <alias>Mutate 007</alias>
+            <alias>Apocalypse</alias>
+        </aliases>
+    </hero>
+    <hero id="198">
+        <name>Dagger</name>
+        <aliases>
+            <alias>Lady Light</alias>
+        </aliases>
+    </hero>
+    <hero id="201">
+        <name>Daredevil</name>
+        <aliases>
+            <alias>Matt</alias>
+            <alias>Jack Batlin</alias>
+            <alias>Kingpin of Crime</alias>
+            <alias>Laurent LeVasseur</alias>
+            <alias>Michael "Mike" Murdock</alias>
+            <alias>Scarlet Swashbuckler</alias>
+            <alias>Nameless One</alias>
+            <alias>Kingpin of Hell's Kitchen</alias>
+            <alias>The Man Without Fear</alias>
+            <alias>The Guardian Devil</alias>
+            <alias>DD</alias>
+            <alias>Red</alias>
+            <alias>Hornhead</alias>
+            <alias>Cooper Peyton</alias>
+            <alias>Captain Universe</alias>
+        </aliases>
+    </hero>
+    <hero id="202">
+        <name>Darkhawk</name>
+        <aliases>
+            <alias>Bucket-Head</alias>
+            <alias>Edge-Man</alias>
+            <alias>Powell</alias>
+        </aliases>
+    </hero>
+    <hero id="204">
+        <name>Darkseid</name>
+        <aliases>
+            <alias>Dark God</alias>
+        </aliases>
+    </hero>
+    <hero id="206">
+        <name>Darkstar</name>
+        <aliases>
+            <alias>Tyomni Zvesda</alias>
+        </aliases>
+    </hero>
+    <hero id="207">
+        <name>Darth Maul</name>
+        <aliases>
+            <alias>Sith</alias>
+            <alias>Master Of The Double-Bladed Lightsaber</alias>
+        </aliases>
+    </hero>
+    <hero id="208">
+        <name>Darth Vader</name>
+        <aliases>
+            <alias>Lord Vader</alias>
+        </aliases>
+    </hero>
+    <hero id="209">
+        <name>Dash</name>
+        <aliases>
+            <alias>The Fastest Kid on Earth</alias>
+            <alias>The Dash</alias>
+        </aliases>
+    </hero>
+    <hero id="210">
+        <name>Data</name>
+        <aliases>
+            <alias>B-4</alias>
+        </aliases>
+    </hero>
+    <hero id="211">
+        <name>Dazzler</name>
+        <aliases>
+            <alias>Ali</alias>
+            <alias>The Disco Dazzler</alias>
+            <alias>Songbird</alias>
+            <alias>Dazz</alias>
+            <alias>Kimberly Schau</alias>
+            <alias>Ally</alias>
+        </aliases>
+    </hero>
+    <hero id="213">
+        <name>Deadpool</name>
+        <aliases>
+            <alias>Wade Wilson</alias>
+            <alias>Jack</alias>
+            <alias>Chiyonosake ("the Wolf of the Rice Wine")</alias>
+            <alias>Rhodes</alias>
+            <alias>Corpus</alias>
+            <alias>Lopez</alias>
+            <alias>Hobgoblin</alias>
+            <alias>Thom Cruz</alias>
+            <alias>Peter Parker</alias>
+        </aliases>
+    </hero>
+    <hero id="214">
+        <name>Deadshot</name>
+        <aliases>
+            <alias>Man Who Never Misses</alias>
+            <alias>Worlds Finest Assassin</alias>
+            <alias>Orlando Furioso</alias>
+        </aliases>
+    </hero>
+    <hero id="215">
+        <name>Deathlok</name>
+        <aliases>
+            <alias>Demolisher</alias>
+        </aliases>
+    </hero>
+    <hero id="216">
+        <name>Deathstroke</name>
+        <aliases>
+            <alias>Slade Wilson</alias>
+            <alias>Deathstroke the Terminator</alias>
+            <alias>Batman</alias>
+        </aliases>
+    </hero>
+    <hero id="217">
+        <name>Demogoblin</name>
+        <aliases>
+            <alias>Jason Macendale Jr</alias>
+        </aliases>
+    </hero>
+    <hero id="222">
+        <name>Doctor Doom</name>
+        <aliases>
+            <alias>The Master</alias>
+            <alias>Invincible Man</alias>
+        </aliases>
+    </hero>
+    <hero id="224">
+        <name>Doctor Fate</name>
+        <aliases>
+            <alias>Nabu</alias>
+        </aliases>
+    </hero>
+    <hero id="225">
+        <name>Doctor Octopus</name>
+        <aliases>
+            <alias>Doctor Octopus</alias>
+            <alias>Doc Ock</alias>
+            <alias>The Master Planner</alias>
+            <alias>The Master Programmer</alias>
+            <alias>Peter Benjamin Parker</alias>
+            <alias>Superior Spider-Man</alias>
+            <alias>Venom</alias>
+            <alias>Superior Venom</alias>
+        </aliases>
+    </hero>
+    <hero id="226">
+        <name>Doctor Strange</name>
+        <aliases>
+            <alias>Sorcerer Supreme</alias>
+            <alias>Master of the Mystic Arts</alias>
+            <alias>Stephen Sanders</alias>
+            <alias>Captain Universe</alias>
+            <alias>Vincent Stevens</alias>
+        </aliases>
+    </hero>
+    <hero id="227">
+        <name>Domino</name>
+        <aliases>
+            <alias>Dom</alias>
+            <alias>Samantha Wu</alias>
+            <alias>Tamara Winter</alias>
+            <alias>Elena Vladescu</alias>
+            <alias>Jessica Marie Costello</alias>
+            <alias>Luisa Mendoza</alias>
+            <alias>Beatrice</alias>
+            <alias>Christina Elizabeth Alioso</alias>
+            <alias>Priscilla Sutherland</alias>
+            <alias>Hope Eldridge</alias>
+        </aliases>
+    </hero>
+    <hero id="228">
+        <name>Donatello</name>
+        <aliases>
+            <alias>Don</alias>
+            <alias>Donnie</alias>
+        </aliases>
+    </hero>
+    <hero id="230">
+        <name>Doomsday</name>
+        <aliases>
+            <alias>The Ultimate Lifeform</alias>
+        </aliases>
+    </hero>
+    <hero id="231">
+        <name>Doppelganger</name>
+        <aliases>
+            <alias>The Spider-Man Doppelganger</alias>
+            <alias>Spider-Doppelganger</alias>
+            <alias>Mindless One</alias>
+        </aliases>
+    </hero>
+    <hero id="232">
+        <name>Dormammu</name>
+        <aliases>
+            <alias>The Dread One</alias>
+            <alias>Eater of Souls</alias>
+            <alias>Lord of Chaos</alias>
+            <alias>Lord of Darkness</alias>
+            <alias>the Great Enigma</alias>
+            <alias>Flyx</alias>
+        </aliases>
+    </hero>
+    <hero id="233">
+        <name>Dr Manhattan</name>
+        <aliases>
+            <alias>Jon Osterman</alias>
+            <alias>Doctor Manhattan</alias>
+        </aliases>
+    </hero>
+    <hero id="235">
+        <name>Ego</name>
+        <aliases>
+            <alias>The Living Planet</alias>
+        </aliases>
+    </hero>
+    <hero id="236">
+        <name>Elastigirl</name>
+        <aliases>
+            <alias>Mrs Incredible</alias>
+        </aliases>
+    </hero>
+    <hero id="238">
+        <name>Elektra</name>
+        <aliases>
+            <alias>Erynys (evil self)</alias>
+        </aliases>
+    </hero>
+    <hero id="239">
+        <name>Elle Bishop</name>
+        <aliases>
+            <alias>Cindy</alias>
+        </aliases>
+    </hero>
+    <hero id="240">
+        <name>Elongated Man</name>
+        <aliases>
+            <alias>Alvin Burgson; Molder</alias>
+        </aliases>
+    </hero>
+    <hero id="241">
+        <name>Emma Frost</name>
+        <aliases>
+            <alias>Storm</alias>
+            <alias>White Queen</alias>
+        </aliases>
+    </hero>
+    <hero id="242">
+        <name>Enchantress</name>
+        <aliases>
+            <alias>Anita Soulfeeda</alias>
+            <alias>Soulsinger</alias>
+        </aliases>
+    </hero>
+    <hero id="246">
+        <name>Etrigan</name>
+        <aliases>
+            <alias>Demon</alias>
+        </aliases>
+    </hero>
+    <hero id="247">
+        <name>Evil Deadpool</name>
+        <aliases>
+            <alias>Dreadpool</alias>
+        </aliases>
+    </hero>
+    <hero id="249">
+        <name>Exodus</name>
+        <aliases>
+            <alias>Paris Bennet</alias>
+        </aliases>
+    </hero>
+    <hero id="251">
+        <name>Falcon</name>
+        <aliases>
+            <alias>Sam Wilson</alias>
+            <alias>(formerly) Captain America</alias>
+            <alias>Blackbird</alias>
+            <alias>Blackwing</alias>
+            <alias>Brother Superhero</alias>
+        </aliases>
+    </hero>
+    <hero id="253">
+        <name>Faora</name>
+        <aliases>
+            <alias>Katie</alias>
+        </aliases>
+    </hero>
+    <hero id="256">
+        <name>Fin Fang Foom</name>
+        <aliases>
+            <alias>He Whose Limbs Shatter Mountains and Whose Back Scrapes the Sun (translation)</alias>
+        </aliases>
+    </hero>
+    <hero id="257">
+        <name>Firebird</name>
+        <aliases>
+            <alias>Pajaro Del Fuego</alias>
+            <alias>La Espirita</alias>
+            <alias>Firemaiden</alias>
+        </aliases>
+    </hero>
+    <hero id="258">
+        <name>Firelord</name>
+        <aliases>
+            <alias>Nova Centurion</alias>
+        </aliases>
+    </hero>
+    <hero id="259">
+        <name>Firestar</name>
+        <aliases>
+            <alias>Angel</alias>
+            <alias>Anj</alias>
+            <alias>Lady Comet</alias>
+        </aliases>
+    </hero>
+    <hero id="260">
+        <name>Firestorm</name>
+        <aliases>
+            <alias>The Nuclear Man</alias>
+        </aliases>
+    </hero>
+    <hero id="261">
+        <name>Firestorm</name>
+        <aliases>
+            <alias>Ronnie</alias>
+            <alias>Roy</alias>
+            <alias>Ronald Rockwell</alias>
+            <alias>Flamehead</alias>
+        </aliases>
+    </hero>
+    <hero id="263">
+        <name>Flash</name>
+        <aliases>
+            <alias>Jay Garrick</alias>
+            <alias>Siegfreid the Speedster</alias>
+        </aliases>
+    </hero>
+    <hero id="265">
+        <name>Flash II</name>
+        <aliases>
+            <alias>The Scarlet Speedster</alias>
+            <alias>the Fastest Man Alive</alias>
+            <alias>the Monarch of Motion</alias>
+            <alias>the Sultan of Speed</alias>
+        </aliases>
+    </hero>
+    <hero id="266">
+        <name>Flash III</name>
+        <aliases>
+            <alias>The Fastest Man Alive</alias>
+            <alias>The Scarlet Speedster; formerly</alias>
+            <alias>Kid Flash I</alias>
+        </aliases>
+    </hero>
+    <hero id="267">
+        <name>Flash IV</name>
+        <aliases>
+            <alias>Impulse</alias>
+            <alias>Kid Flash II</alias>
+        </aliases>
+    </hero>
+    <hero id="268">
+        <name>Forge</name>
+        <aliases>
+            <alias>The Maker</alias>
+            <alias>Cheyenne</alias>
+        </aliases>
+    </hero>
+    <hero id="269">
+        <name>Franklin Richards</name>
+        <aliases>
+            <alias>Franklin Benjamin</alias>
+            <alias>Tattletale</alias>
+            <alias>Psi-Lord</alias>
+            <alias>Ego-Spawn</alias>
+            <alias>Avatar</alias>
+        </aliases>
+    </hero>
+    <hero id="270">
+        <name>Franklin Storm</name>
+        <aliases>
+            <alias>Franklin Storm was erroneously believed to be the first Invincible Man</alias>
+        </aliases>
+    </hero>
+    <hero id="273">
+        <name>Galactus</name>
+        <aliases>
+            <alias>Maker</alias>
+            <alias>Devourer of Worlds</alias>
+            <alias>Eater-of-Worlds</alias>
+            <alias>Ravager of Worlds</alias>
+        </aliases>
+    </hero>
+    <hero id="274">
+        <name>Gambit</name>
+        <aliases>
+            <alias>Death</alias>
+            <alias>Le Diable Blanc</alias>
+            <alias>formerly Robert Lord</alias>
+            <alias>Cajun</alias>
+        </aliases>
+    </hero>
+    <hero id="275">
+        <name>Gamora</name>
+        <aliases>
+            <alias>The Deadliest Woman In The Universe</alias>
+            <alias>The Most Dangerous Woman in the Galaxy</alias>
+        </aliases>
+    </hero>
+    <hero id="278">
+        <name>General Zod</name>
+        <aliases>
+            <alias>Dru-Zod (possible first name)</alias>
+        </aliases>
+    </hero>
+    <hero id="285">
+        <name>Gladiator</name>
+        <aliases>
+            <alias>Majestor</alias>
+            <alias>Praetor</alias>
+            <alias>Captain Universe</alias>
+        </aliases>
+    </hero>
+    <hero id="286">
+        <name>Goblin Queen</name>
+        <aliases>
+            <alias>Anodyne</alias>
+            <alias>Maddie</alias>
+            <alias>Lyne</alias>
+            <alias>Red</alias>
+            <alias>Madelyne Pryor-Summers</alias>
+        </aliases>
+    </hero>
+    <hero id="287">
+        <name>Godzilla</name>
+        <aliases>
+            <alias>Legendary Godzilla</alias>
+            <alias>King of the Monsters</alias>
+            <alias>Gigantis</alias>
+            <alias>Monster Zero-One</alias>
+            <alias>God of Destruction</alias>
+            <alias>Alpha Predator</alias>
+        </aliases>
+    </hero>
+    <hero id="288">
+        <name>Gog</name>
+        <aliases>
+            <alias>Nephut-Sha</alias>
+            <alias>Hassan Kareem</alias>
+        </aliases>
+    </hero>
+    <hero id="289">
+        <name>Goku</name>
+        <aliases>
+            <alias>Ultimate Defender</alias>
+            <alias>Sayain Monkey</alias>
+            <alias>Super Sayain</alias>
+            <alias>Z-Fighter</alias>
+            <alias>Son-Goku</alias>
+            <alias>Lower-Class Sayain</alias>
+            <alias>Goku Son</alias>
+        </aliases>
+    </hero>
+    <hero id="294">
+        <name>Gorilla Grodd</name>
+        <aliases>
+            <alias>William Dawson</alias>
+            <alias>King Grodd</alias>
+            <alias>Gorilla Grodd</alias>
+            <alias>Grodd-Son</alias>
+        </aliases>
+    </hero>
+    <hero id="296">
+        <name>Gravity</name>
+        <aliases>
+            <alias>Protector of the Universe</alias>
+        </aliases>
+    </hero>
+    <hero id="298">
+        <name>Green Arrow</name>
+        <aliases>
+            <alias>The Emerald Archer</alias>
+            <alias>Battling Bowman</alias>
+        </aliases>
+    </hero>
+    <hero id="299">
+        <name>Green Goblin</name>
+        <aliases>
+            <alias>Normie</alias>
+            <alias>Green Goblin</alias>
+            <alias>Goblin Lord</alias>
+            <alias>Overlord</alias>
+            <alias>the Goblin</alias>
+            <alias>"Gobby"</alias>
+            <alias>Scrier</alias>
+            <alias>Commander Osborn</alias>
+            <alias>Director Osborn</alias>
+            <alias>Iron Patriot</alias>
+        </aliases>
+    </hero>
+    <hero id="303">
+        <name>Groot</name>
+        <aliases>
+            <alias>The Monster from Planet X; His Divine Majesty King Groot the 23rd</alias>
+            <alias>Monarch of Planet X</alias>
+            <alias>custodian of the branch worlds</alias>
+            <alias>ruler of all the shades</alias>
+            <alias>Flora colossus Information-silk</alias>
+        </aliases>
+    </hero>
+    <hero id="305">
+        <name>Guy Gardner</name>
+        <aliases>
+            <alias>Green Lantern</alias>
+            <alias>Red Lantern</alias>
+            <alias>Warrior</alias>
+        </aliases>
+    </hero>
+    <hero id="306">
+        <name>Hal Jordan</name>
+        <aliases>
+            <alias>Parallax</alias>
+            <alias>Spectre</alias>
+            <alias>Green Lantern</alias>
+        </aliases>
+    </hero>
+    <hero id="309">
+        <name>Harley Quinn</name>
+        <aliases>
+            <alias>Harleen Quinzel</alias>
+            <alias>Harl</alias>
+            <alias>Cupid of Crime</alias>
+            <alias>Jane Wisakedjak</alias>
+            <alias>Elise Archer</alias>
+            <alias>Pumpkin Pooh</alias>
+        </aliases>
+    </hero>
+    <hero id="310">
+        <name>Harry Potter</name>
+        <aliases>
+            <alias>Triwizard Champion</alias>
+            <alias>Seeker</alias>
+            <alias>Quidditch Captain</alias>
+            <alias>Leader of Dumbledore's Army</alias>
+            <alias>Master of Death</alias>
+        </aliases>
+    </hero>
+    <hero id="311">
+        <name>Havok</name>
+        <aliases>
+            <alias>Mutant X</alias>
+            <alias>Goblin Prince</alias>
+        </aliases>
+    </hero>
+    <hero id="312">
+        <name>Hawk</name>
+        <aliases>
+            <alias>Monarch</alias>
+            <alias>Extant</alias>
+        </aliases>
+    </hero>
+    <hero id="313">
+        <name>Hawkeye</name>
+        <aliases>
+            <alias>Ronin</alias>
+            <alias>Goliath</alias>
+            <alias>Golden Archer</alias>
+            <alias>the Marksman</alias>
+            <alias>Father Time</alias>
+            <alias>Longbow</alias>
+        </aliases>
+    </hero>
+    <hero id="314">
+        <name>Hawkeye II</name>
+        <aliases>
+            <alias>Kate Bishop</alias>
+        </aliases>
+    </hero>
+    <hero id="315">
+        <name>Hawkgirl</name>
+        <aliases>
+            <alias>Chay-Ara; Sheila Carr; Lady Celia Penbrook</alias>
+            <alias>Kate Manser; Shiera Sanders</alias>
+        </aliases>
+    </hero>
+    <hero id="320">
+        <name>Heat Wave</name>
+        <aliases>
+            <alias>Rory Calhoun</alias>
+        </aliases>
+    </hero>
+    <hero id="321">
+        <name>Hela</name>
+        <aliases>
+            <alias>Goddess of Death</alias>
+        </aliases>
+    </hero>
+    <hero id="322">
+        <name>Hellboy</name>
+        <aliases>
+            <alias>World Destroyer</alias>
+            <alias>The Great Beast</alias>
+        </aliases>
+    </hero>
+    <hero id="323">
+        <name>Hellcat</name>
+        <aliases>
+            <alias>Patsy Walker</alias>
+            <alias>Patricia Hellstrom</alias>
+            <alias>The Cat</alias>
+        </aliases>
+    </hero>
+    <hero id="325">
+        <name>Hercules</name>
+        <aliases>
+            <alias>Spider-Herc</alias>
+            <alias>The Lion of Olympus</alias>
+            <alias>The Defender of Olympus</alias>
+            <alias>The Scion of Olympus</alias>
+            <alias>Prince of Power</alias>
+            <alias>Alcaeus</alias>
+            <alias>Herakles</alias>
+            <alias>Herc</alias>
+            <alias>Harry Cleese</alias>
+            <alias>Victor Tegler</alias>
+            <alias>Agent 74</alias>
+        </aliases>
+    </hero>
+    <hero id="327">
+        <name>Hit-Girl</name>
+        <aliases>
+            <alias>Hit Girl</alias>
+            <alias>Hitgirl</alias>
+        </aliases>
+    </hero>
+    <hero id="330">
+        <name>Hope Summers</name>
+        <aliases>
+            <alias>Mutant Messiah</alias>
+            <alias>Messiah Child</alias>
+            <alias>Hub</alias>
+            <alias>Throat Slicer</alias>
+            <alias>Little Girl</alias>
+            <alias>Little Momma</alias>
+        </aliases>
+    </hero>
+    <hero id="332">
+        <name>Hulk</name>
+        <aliases>
+            <alias>Annihilator</alias>
+            <alias>Captain Universe</alias>
+            <alias>Joe Fixit</alias>
+            <alias>Mr. Fixit</alias>
+            <alias>Mechano</alias>
+            <alias>Professor</alias>
+            <alias>Jade Jaws</alias>
+            <alias>Golly Green Giant</alias>
+        </aliases>
+    </hero>
+    <hero id="333">
+        <name>Human Torch</name>
+        <aliases>
+            <alias>Matchstick Johnny</alias>
+            <alias>Doug Brown</alias>
+        </aliases>
+    </hero>
+    <hero id="334">
+        <name>Huntress</name>
+        <aliases>
+            <alias>Batgirl</alias>
+            <alias>Sicilian</alias>
+            <alias>Mafia Princess</alias>
+        </aliases>
+    </hero>
+    <hero id="335">
+        <name>Husk</name>
+        <aliases>
+            <alias>Hayseed</alias>
+        </aliases>
+    </hero>
+    <hero id="336">
+        <name>Hybrid</name>
+        <aliases>
+            <alias>Guardsman Number Six</alias>
+            <alias>Terror of Brooklyn</alias>
+            <alias>Riot ,Phage </alias>
+            <alias>Lasher</alias>
+            <alias>Agony</alias>
+        </aliases>
+    </hero>
+    <hero id="337">
+        <name>Hydro-Man</name>
+        <aliases>
+            <alias>Morrie</alias>
+        </aliases>
+    </hero>
+    <hero id="338">
+        <name>Hyperion</name>
+        <aliases>
+            <alias>Mark Milton</alias>
+            <alias>Zhib-Ran</alias>
+            <alias>Mr. Kant</alias>
+            <alias>Marcus Milton</alias>
+        </aliases>
+    </hero>
+    <hero id="339">
+        <name>Iceman</name>
+        <aliases>
+            <alias>Bobby Drake</alias>
+            <alias>Mister Friese</alias>
+            <alias>Drake Roberts</alias>
+            <alias>Rampage</alias>
+            <alias>Frozen One</alias>
+            <alias>Iceface</alias>
+        </aliases>
+    </hero>
+    <hero id="340">
+        <name>Impulse</name>
+        <aliases>
+            <alias>Flash IV</alias>
+            <alias>Kid Flash II</alias>
+        </aliases>
+    </hero>
+    <hero id="341">
+        <name>Indiana Jones</name>
+        <aliases>
+            <alias>Indy</alias>
+        </aliases>
+    </hero>
+    <hero id="342">
+        <name>Indigo</name>
+        <aliases>
+            <alias>Indigo-1</alias>
+        </aliases>
+    </hero>
+    <hero id="344">
+        <name>Invisible Woman</name>
+        <aliases>
+            <alias>Invisible Girl</alias>
+        </aliases>
+    </hero>
+    <hero id="345">
+        <name>Iron Fist</name>
+        <aliases>
+            <alias>Daredevil</alias>
+            <alias>Daniel Thomas Rand</alias>
+            <alias>the Living Weapon</alias>
+            <alias>Young Dragon</alias>
+            <alias>Danny Rand</alias>
+        </aliases>
+    </hero>
+    <hero id="346">
+        <name>Iron Man</name>
+        <aliases>
+            <alias>Iron Knight</alias>
+            <alias>Hogan Potts</alias>
+            <alias>Spare Parts Man</alias>
+            <alias>Cobalt Man II</alias>
+            <alias>Crimson Dynamo</alias>
+            <alias>Ironman</alias>
+        </aliases>
+    </hero>
+    <hero id="352">
+        <name>James Bond</name>
+        <aliases>
+            <alias>007</alias>
+            <alias>Commander Bond</alias>
+        </aliases>
+    </hero>
+    <hero id="353">
+        <name>James T. Kirk</name>
+        <aliases>
+            <alias>Jim</alias>
+            <alias>Captain Kirk</alias>
+        </aliases>
+    </hero>
+    <hero id="356">
+        <name>Jean Grey</name>
+        <aliases>
+            <alias>Redd Dayspring</alias>
+            <alias>Marvel Girl</alias>
+        </aliases>
+    </hero>
+    <hero id="357">
+        <name>Jean-Luc Picard</name>
+        <aliases>
+            <alias>Locutus</alias>
+        </aliases>
+    </hero>
+    <hero id="358">
+        <name>Jennifer Kale</name>
+        <aliases>
+            <alias>Wendy the Good Little Witch</alias>
+        </aliases>
+    </hero>
+    <hero id="360">
+        <name>Jessica Cruz</name>
+        <aliases>
+            <alias>Green Lantern</alias>
+            <alias>Power Ring</alias>
+        </aliases>
+    </hero>
+    <hero id="361">
+        <name>Jessica Jones</name>
+        <aliases>
+            <alias>Knightress</alias>
+            <alias>Madeline</alias>
+            <alias>Jewel</alias>
+            <alias>Power Woman</alias>
+        </aliases>
+    </hero>
+    <hero id="367">
+        <name>John Constantine</name>
+        <aliases>
+            <alias>Hellblazer</alias>
+        </aliases>
+    </hero>
+    <hero id="369">
+        <name>John Wraith</name>
+        <aliases>
+            <alias>Wraith-Man</alias>
+            <alias>Kestrel</alias>
+            <alias>Expediter</alias>
+            <alias>Guardian</alias>
+            <alias>Vindicator</alias>
+        </aliases>
+    </hero>
+    <hero id="370">
+        <name>Joker</name>
+        <aliases>
+            <alias>Red Hood I</alias>
+            <alias>Clown Prince of Crime</alias>
+            <alias>Harlequin of Hate</alias>
+            <alias>Jack Napier</alias>
+            <alias>Joe Kerr</alias>
+            <alias>Mr. J</alias>
+        </aliases>
+    </hero>
+    <hero id="371">
+        <name>Jolt</name>
+        <aliases>
+            <alias>Holly Tsuruta</alias>
+            <alias>Hallie Shimosato</alias>
+        </aliases>
+    </hero>
+    <hero id="372">
+        <name>Jubilee</name>
+        <aliases>
+            <alias>Jubes</alias>
+        </aliases>
+    </hero>
+    <hero id="373">
+        <name>Judge Dredd</name>
+        <aliases>
+            <alias>The Dead Man</alias>
+            <alias>Joe</alias>
+        </aliases>
+    </hero>
+    <hero id="374">
+        <name>Juggernaut</name>
+        <aliases>
+            <alias>Kuurth</alias>
+            <alias>Captain Universe</alias>
+        </aliases>
+    </hero>
+    <hero id="376">
+        <name>Justice</name>
+        <aliases>
+            <alias>Marvel Boy</alias>
+            <alias>Manglin' John Mahoney</alias>
+            <alias>Astounding Astrovik</alias>
+            <alias>Superhuman Penitentiary Prisoner 344678</alias>
+            <alias>"Super Tights"</alias>
+        </aliases>
+    </hero>
+    <hero id="379">
+        <name>Kang</name>
+        <aliases>
+            <alias>Blue Man</alias>
+            <alias>Victor Timely</alias>
+            <alias>Blue Totem</alias>
+            <alias>Scarlet Centurion</alias>
+            <alias>Rama-Tut</alias>
+            <alias>King of Kings</alias>
+            <alias>Master of Men</alias>
+            <alias>Lord of the Seven Suns</alias>
+        </aliases>
+    </hero>
+    <hero id="382">
+        <name>Kevin 11</name>
+        <aliases>
+            <alias>Kevin 11,000</alias>
+            <alias>Curtis</alias>
+            <alias>Osmosian</alias>
+            <alias>Kev</alias>
+            <alias>Kevin Ethan</alias>
+            <alias>Levin</alias>
+            <alias>Ultimate Kevin</alias>
+            <alias>Doofus</alias>
+            <alias>An Empty Shell</alias>
+            <alias>Kevin E. Levin</alias>
+        </aliases>
+    </hero>
+    <hero id="383">
+        <name>Kick-Ass</name>
+        <aliases>
+            <alias>Kickass</alias>
+        </aliases>
+    </hero>
+    <hero id="384">
+        <name>Kid Flash</name>
+        <aliases>
+            <alias>Kid Lantern</alias>
+        </aliases>
+    </hero>
+    <hero id="388">
+        <name>Kilowog</name>
+        <aliases>
+            <alias>Kilo Wog</alias>
+            <alias>Green Lantern 674.1</alias>
+            <alias>Dark Lantern</alias>
+            <alias>The Green Lantern drill sergeant</alias>
+            <alias>"Poozer"</alias>
+            <alias>Lantern</alias>
+        </aliases>
+    </hero>
+    <hero id="389">
+        <name>King Kong</name>
+        <aliases>
+            <alias>the 8th Wonder of the World</alias>
+            <alias>King of Skull Island</alias>
+        </aliases>
+    </hero>
+    <hero id="391">
+        <name>Kingpin</name>
+        <aliases>
+            <alias>The Brain Washer</alias>
+            <alias>Harold Howard</alias>
+            <alias>Wilbur</alias>
+        </aliases>
+    </hero>
+    <hero id="393">
+        <name>Kool-Aid Man</name>
+        <aliases>
+            <alias>Pitcher Man</alias>
+        </aliases>
+    </hero>
+    <hero id="395">
+        <name>Kraven the Hunter</name>
+        <aliases>
+            <alias>Kraven the Hunter</alias>
+            <alias>World's Greatest Hunter</alias>
+            <alias>the Grim Hunter</alias>
+        </aliases>
+    </hero>
+    <hero id="397">
+        <name>Kyle Rayner</name>
+        <aliases>
+            <alias>Ion</alias>
+            <alias>Kyle Vasquez</alias>
+            <alias>Parallax</alias>
+            <alias>Torch Bearer</alias>
+            <alias>Honor Guard</alias>
+            <alias>The Last Green Lantern</alias>
+        </aliases>
+    </hero>
+    <hero id="400">
+        <name>Lady Deathstrike</name>
+        <aliases>
+            <alias>Ana Cortes</alias>
+        </aliases>
+    </hero>
+    <hero id="403">
+        <name>Legion</name>
+        <aliases>
+            <alias>Jack Wayne</alias>
+            <alias>Cyndi</alias>
+            <alias>Jemail Karami</alias>
+            <alias>Daniel Lucas Haller</alias>
+            <alias>Daniel Haller</alias>
+            <alias>Rodney</alias>
+            <alias>Ian</alias>
+            <alias>Lucas</alias>
+            <alias>Fanya</alias>
+            <alias>Boris</alias>
+            <alias>Zachary</alias>
+            <alias>Sylvester</alias>
+            <alias>God-Mutant</alias>
+        </aliases>
+    </hero>
+    <hero id="404">
+        <name>Leonardo</name>
+        <aliases>
+            <alias>Leo</alias>
+            <alias>Ghost of the Jungle</alias>
+            <alias>Splinter Jr.</alias>
+        </aliases>
+    </hero>
+    <hero id="407">
+        <name>Lightning Lad</name>
+        <aliases>
+            <alias>Lightning Boy</alias>
+            <alias>Live Wire</alias>
+        </aliases>
+    </hero>
+    <hero id="410">
+        <name>Living Tribunal</name>
+        <aliases>
+            <alias>Living Trinity</alias>
+            <alias>Magistrate</alias>
+            <alias>High Judge of The Multiverse</alias>
+            <alias>Sir</alias>
+        </aliases>
+    </hero>
+    <hero id="413">
+        <name>Lobo</name>
+        <aliases>
+            <alias>The Main Man</alias>
+            <alias>The 'Bo</alias>
+            <alias>Master Frag</alias>
+            <alias>Mister Machete</alias>
+            <alias>Popebo; He-Who-Devours-Your-Entrails-And-Thoroughly-Enjoys-It</alias>
+        </aliases>
+    </hero>
+    <hero id="414">
+        <name>Loki</name>
+        <aliases>
+            <alias>God of Mischief</alias>
+            <alias>Gem-Keeper</alias>
+            <alias>Walter Lawson</alias>
+            <alias>Lester</alias>
+            <alias>Loren Olsen</alias>
+            <alias>Tyfon</alias>
+            <alias>Father Williams</alias>
+            <alias>Willie</alias>
+            <alias>Tso Zhung; has also impersonated hundreds of others.</alias>
+        </aliases>
+    </hero>
+    <hero id="415">
+        <name>Longshot</name>
+        <aliases>
+            <alias>The Lost Messiah</alias>
+            <alias>The Lucky One</alias>
+        </aliases>
+    </hero>
+    <hero id="416">
+        <name>Luke Cage</name>
+        <aliases>
+            <alias>Carl Lucas</alias>
+            <alias>Power Man</alias>
+            <alias>Mark Lucas</alias>
+            <alias>Hero for Hire</alias>
+            <alias>Ace of Spades</alias>
+        </aliases>
+    </hero>
+    <hero id="418">
+        <name>Luke Skywalker</name>
+        <aliases>
+            <alias>General Skywalker</alias>
+            <alias>Master Luke</alias>
+            <alias>Jedi</alias>
+        </aliases>
+    </hero>
+    <hero id="421">
+        <name>Mach-IV</name>
+        <aliases>
+            <alias>Beetle</alias>
+            <alias>MACH-I</alias>
+            <alias>MACH-II</alias>
+            <alias>MACH-III</alias>
+            <alias>Matthew</alias>
+        </aliases>
+    </hero>
+    <hero id="422">
+        <name>Machine Man</name>
+        <aliases>
+            <alias>Sir McHinery</alias>
+            <alias>Mister Machine.Machine Man</alias>
+        </aliases>
+    </hero>
+    <hero id="423">
+        <name>Magneto</name>
+        <aliases>
+            <alias>The Creator</alias>
+            <alias>Erik Magnus Lehnsherr</alias>
+            <alias>Michael Xavier</alias>
+            <alias>White Pilgrim</alias>
+            <alias>Erik the RedThe Master of Magnetism</alias>
+        </aliases>
+    </hero>
+    <hero id="425">
+        <name>Magus</name>
+        <aliases>
+            <alias>Warlock's Father</alias>
+        </aliases>
+    </hero>
+    <hero id="426">
+        <name>Man of Miracles</name>
+        <aliases>
+            <alias>Mother Of Existence</alias>
+        </aliases>
+    </hero>
+    <hero id="427">
+        <name>Man-Bat</name>
+        <aliases>
+            <alias>Kirk Langstrom</alias>
+        </aliases>
+    </hero>
+    <hero id="428">
+        <name>Man-Thing</name>
+        <aliases>
+            <alias>the Vagornus Koth; the Swamp Walker; Mr. Salad; Walking Mulch Heap</alias>
+        </aliases>
+    </hero>
+    <hero id="429">
+        <name>Man-Wolf</name>
+        <aliases>
+            <alias>Stargod</alias>
+            <alias>Vanwolf</alias>
+            <alias>Skywolf</alias>
+        </aliases>
+    </hero>
+    <hero id="430">
+        <name>Mandarin</name>
+        <aliases>
+            <alias>Tem Borjigin</alias>
+            <alias>Gene Kahn</alias>
+            <alias>Master Khan</alias>
+            <alias>Zhang Tong</alias>
+            <alias>Mandy</alias>
+        </aliases>
+    </hero>
+    <hero id="431">
+        <name>Mantis</name>
+        <aliases>
+            <alias>Celestial Madonna</alias>
+            <alias>Willow</alias>
+            <alias>Lorelei</alias>
+            <alias>Mandy Celestine</alias>
+            <alias>This One (in referring to herself)</alias>
+        </aliases>
+    </hero>
+    <hero id="432">
+        <name>Martian Manhunter</name>
+        <aliases>
+            <alias>ohn Jones; J'Onn J'Onzz (alternate spelling); Big Green Buddy; J.J.; Jolly Green Giant; Light to the Light; Manhunter; Manhunter from Mars; Son of Mars; Bronze Wraith</alias>
+            <alias>Bloodwynd</alias>
+            <alias>many others</alias>
+        </aliases>
+    </hero>
+    <hero id="433">
+        <name>Marvel Girl</name>
+        <aliases>
+            <alias>Rachel Grey</alias>
+            <alias>formerly Phoenix</alias>
+            <alias>Mother Askani</alias>
+            <alias>Bright Lady</alias>
+            <alias>Aly'zrn Summerset</alias>
+        </aliases>
+    </hero>
+    <hero id="435">
+        <name>Master Chief</name>
+        <aliases>
+            <alias>Blue 1</alias>
+            <alias>Sierra 117</alias>
+            <alias>Spartan 117</alias>
+            <alias>Demon</alias>
+        </aliases>
+    </hero>
+    <hero id="436">
+        <name>Match</name>
+        <aliases>
+            <alias>Superboy</alias>
+            <alias>Superman</alias>
+        </aliases>
+    </hero>
+    <hero id="438">
+        <name>Maverick</name>
+        <aliases>
+            <alias>Chris</alias>
+            <alias>Bolt</alias>
+        </aliases>
+    </hero>
+    <hero id="439">
+        <name>Maxima</name>
+        <aliases>
+            <alias>Queen Maxima</alias>
+            <alias>Empress of the Almeracian Empire</alias>
+        </aliases>
+    </hero>
+    <hero id="441">
+        <name>Medusa</name>
+        <aliases>
+            <alias>Madam Medusa</alias>
+            <alias>Queen Medusa</alias>
+        </aliases>
+    </hero>
+    <hero id="442">
+        <name>Meltdown</name>
+        <aliases>
+            <alias>Boom-Boom</alias>
+            <alias>Boomer</alias>
+            <alias>Meltdown</alias>
+            <alias>Mutate #35</alias>
+            <alias>Time Bomb</alias>
+            <alias>Nancy Forrester</alias>
+        </aliases>
+    </hero>
+    <hero id="443">
+        <name>Mephisto</name>
+        <aliases>
+            <alias>Satan; Mephistopheles</alias>
+            <alias>Lord of Evil</alias>
+            <alias>Prince of Devils</alias>
+            <alias>Prince of Lies</alias>
+            <alias>Lord of the Lower Depths</alias>
+            <alias>Satan</alias>
+            <alias>Beelzebub</alias>
+            <alias>the Devil</alias>
+            <alias>Maya</alias>
+            <alias>Lucifer</alias>
+            <alias>Nick Scratch</alias>
+            <alias>the Friend</alias>
+            <alias>Legion</alias>
+            <alias>numerous others; impersonated Don Blake</alias>
+            <alias>many others</alias>
+        </aliases>
+    </hero>
+    <hero id="444">
+        <name>Mera</name>
+        <aliases>
+            <alias>Queen of Atlantis</alias>
+            <alias>Aquawoman</alias>
+            <alias>Aquagirl</alias>
+            <alias>Water-Woman</alias>
+        </aliases>
+    </hero>
+    <hero id="449">
+        <name>Micah Sanders</name>
+        <aliases>
+            <alias>MicahSanders500</alias>
+        </aliases>
+    </hero>
+    <hero id="450">
+        <name>Michelangelo</name>
+        <aliases>
+            <alias>Mike</alias>
+            <alias>Mikey</alias>
+            <alias>Mikester</alias>
+            <alias>Michaelangelo</alias>
+        </aliases>
+    </hero>
+    <hero id="451">
+        <name>Micro Lad</name>
+        <aliases>
+            <alias>Colossal Boy (mostly known as Colossal Boy</alias>
+            <alias>although he dislikes that name himself)</alias>
+        </aliases>
+    </hero>
+    <hero id="452">
+        <name>Mimic</name>
+        <aliases>
+            <alias>Cal</alias>
+            <alias>Wolverine</alias>
+            <alias>Calvin Rankin</alias>
+        </aliases>
+    </hero>
+    <hero id="454">
+        <name>Misfit</name>
+        <aliases>
+            <alias>Batgirl</alias>
+        </aliases>
+    </hero>
+    <hero id="455">
+        <name>Miss Martian</name>
+        <aliases>
+            <alias>Megan Morse; M'Gann M'Orzz (alternate spelling); Martian Girlhunter; Martian Manhunter (Titans Tomorrow alias)</alias>
+            <alias>Star-Spangled Kid</alias>
+        </aliases>
+    </hero>
+    <hero id="456">
+        <name>Mister Fantastic</name>
+        <aliases>
+            <alias>Mr Fantastic</alias>
+        </aliases>
+    </hero>
+    <hero id="457">
+        <name>Mister Freeze</name>
+        <aliases>
+            <alias>Mister Zero</alias>
+            <alias>Doctor Zero</alias>
+            <alias>Doctor Schimmell</alias>
+        </aliases>
+    </hero>
+    <hero id="458">
+        <name>Mister Knife</name>
+        <aliases>
+            <alias>Jason of Spartax</alias>
+            <alias>Jason of Sparta</alias>
+            <alias>Star-Lord</alias>
+            <alias>Mr Knife</alias>
+        </aliases>
+    </hero>
+    <hero id="460">
+        <name>Mister Sinister</name>
+        <aliases>
+            <alias>Sinister</alias>
+            <alias>Robert Windsor</alias>
+            <alias>Arnold Bocklin</alias>
+            <alias>Mike Milbury</alias>
+            <alias>Apocalypse</alias>
+            <alias>Steven Shaffran</alias>
+            <alias>Edmond Atkinson</alias>
+            <alias>Nate</alias>
+            <alias>Administrator Pearson</alias>
+            <alias>Nosferatu</alias>
+            <alias>Nathan Milbury</alias>
+            <alias>Pale Man</alias>
+        </aliases>
+    </hero>
+    <hero id="461">
+        <name>Mister Zsasz</name>
+        <aliases>
+            <alias>Mr Zsasz</alias>
+        </aliases>
+    </hero>
+    <hero id="462">
+        <name>Mockingbird</name>
+        <aliases>
+            <alias>Barbara Morse-Barton</alias>
+            <alias>Roberta Morse</alias>
+            <alias>Agent 19</alias>
+            <alias>Huntress</alias>
+            <alias>Bobbi Van Dyne; once posed as Shooting Star</alias>
+        </aliases>
+    </hero>
+    <hero id="463">
+        <name>MODOK</name>
+        <aliases>
+            <alias>M.O.D.O.K.</alias>
+            <alias>Mental Organism Designed Only for Killing</alias>
+        </aliases>
+    </hero>
+    <hero id="470">
+        <name>Moon Knight</name>
+        <aliases>
+            <alias>Jake Lockley</alias>
+            <alias>Steven Grant</alias>
+            <alias>Yitzak Topol</alias>
+            <alias>Fist of Khonshu</alias>
+            <alias>Crescent Crusader</alias>
+            <alias>Lunar Legionnaire</alias>
+        </aliases>
+    </hero>
+    <hero id="471">
+        <name>Moonstone</name>
+        <aliases>
+            <alias>Meteorite</alias>
+            <alias> Kate Sorenson</alias>
+        </aliases>
+    </hero>
+    <hero id="474">
+        <name>Moses Magnum</name>
+        <aliases>
+            <alias>Magnum Force,</alias>
+        </aliases>
+    </hero>
+    <hero id="476">
+        <name>Mr Incredible</name>
+        <aliases>
+            <alias>Mr. I</alias>
+            <alias>The Hero's Hero</alias>
+            <alias>Bob Parr</alias>
+        </aliases>
+    </hero>
+    <hero id="477">
+        <name>Ms Marvel II</name>
+        <aliases>
+            <alias>She-Thing</alias>
+        </aliases>
+    </hero>
+    <hero id="479">
+        <name>Mysterio</name>
+        <aliases>
+            <alias>Nicholas Macabes</alias>
+            <alias>Rudolph Hines</alias>
+            <alias>Gerdes</alias>
+            <alias>Doctor Ludwig Rinehart</alias>
+        </aliases>
+    </hero>
+    <hero id="480">
+        <name>Mystique</name>
+        <aliases>
+            <alias>Mallory Brickman</alias>
+        </aliases>
+    </hero>
+    <hero id="481">
+        <name>Namor</name>
+        <aliases>
+            <alias>Imperius Rex</alias>
+            <alias>Dr. G.W. Falton</alias>
+            <alias>Sub-Mariner</alias>
+            <alias>"Subby"</alias>
+            <alias>Namor the First</alias>
+            <alias>Avenging Son</alias>
+            <alias>Old Man</alias>
+            <alias>Rex</alias>
+            <alias>Joe Pierre</alias>
+            <alias>Lord of the Seven Seas</alias>
+            <alias>the Scion of the Deep</alias>
+            <alias>Phoenix</alias>
+        </aliases>
+    </hero>
+    <hero id="483">
+        <name>Namora</name>
+        <aliases>
+            <alias>Sub-Mariner</alias>
+            <alias>Avenging Daughter</alias>
+            <alias>the Sea Beauty</alias>
+        </aliases>
+    </hero>
+    <hero id="484">
+        <name>Namorita</name>
+        <aliases>
+            <alias>Kymaera</alias>
+            <alias>Hard</alias>
+        </aliases>
+    </hero>
+    <hero id="488">
+        <name>Negasonic Teenage Warhead</name>
+        <aliases>
+            <alias>Warhead</alias>
+        </aliases>
+    </hero>
+    <hero id="489">
+        <name>Nick Fury</name>
+        <aliases>
+            <alias>Doyle</alias>
+            <alias>The Mystery in the Mask</alias>
+            <alias>Patch</alias>
+            <alias>Scorpio</alias>
+        </aliases>
+    </hero>
+    <hero id="491">
+        <name>Nightwing</name>
+        <aliases>
+            <alias>Freddie Dinardo</alias>
+            <alias>Freddy Loyd</alias>
+            <alias>The Target</alias>
+            <alias>Renegade</alias>
+            <alias>The Worlds Greatest Acrobat</alias>
+            <alias>The Aerial Avenger</alias>
+            <alias>Pixie Boots</alias>
+            <alias>The Boy / Teen Wonder</alias>
+            <alias>The Worlds Greatest Detective</alias>
+            <alias>The Caped Crusader</alias>
+        </aliases>
+    </hero>
+    <hero id="492">
+        <name>Niki Sanders</name>
+        <aliases>
+            <alias>Jessica</alias>
+            <alias>Gina</alias>
+        </aliases>
+    </hero>
+    <hero id="495">
+        <name>Northstar</name>
+        <aliases>
+            <alias>Jean-Paul Martin</alias>
+        </aliases>
+    </hero>
+    <hero id="496">
+        <name>Nova</name>
+        <aliases>
+            <alias>Rich</alias>
+            <alias>Bucket-Head</alias>
+            <alias>Human Rocket</alias>
+            <alias>Kid Nova</alias>
+            <alias/>
+            <alias>Nova Prime</alias>
+            <alias>Quasar</alias>
+        </aliases>
+    </hero>
+    <hero id="497">
+        <name>Nova</name>
+        <aliases>
+            <alias>Frances Hyatt</alias>
+            <alias>Human Torch</alias>
+        </aliases>
+    </hero>
+    <hero id="498">
+        <name>Odin</name>
+        <aliases>
+            <alias>All-Father,Sky-Father</alias>
+            <alias>Atum-Re</alias>
+            <alias>Woden</alias>
+            <alias>Wotan</alias>
+            <alias>Oden</alias>
+            <alias>Orrin</alias>
+            <alias>Harbard</alias>
+            <alias>King of Asgard</alias>
+        </aliases>
+    </hero>
+    <hero id="499">
+        <name>Offspring</name>
+        <aliases>
+            <alias>Ernie McDunnagh</alias>
+            <alias>Plastic Lad</alias>
+        </aliases>
+    </hero>
+    <hero id="502">
+        <name>One Punch Man</name>
+        <aliases>
+            <alias>Caped Baldy</alias>
+        </aliases>
+    </hero>
+    <hero id="503">
+        <name>One-Above-All</name>
+        <aliases>
+            <alias>One Above All</alias>
+        </aliases>
+    </hero>
+    <hero id="504">
+        <name>Onslaught</name>
+        <aliases>
+            <alias>Charlie Silus</alias>
+            <alias>Sir David The Great</alias>
+            <alias>Charles Xavier</alias>
+            <alias>Magneto</alias>
+            <alias>That Which Shall Survive</alias>
+            <alias>the Entity</alias>
+            <alias>Dark Xavier</alias>
+        </aliases>
+    </hero>
+    <hero id="505">
+        <name>Oracle</name>
+        <aliases>
+            <alias>Batgirl</alias>
+            <alias>Babs; Barbie Doll; O; The Masked Maiden; the Dark Knight Damsel</alias>
+        </aliases>
+    </hero>
+    <hero id="508">
+        <name>Ozymandias</name>
+        <aliases>
+            <alias>The World's Smartest Man</alias>
+        </aliases>
+    </hero>
+    <hero id="510">
+        <name>Paul Blart</name>
+        <aliases>
+            <alias>Mall Cop</alias>
+        </aliases>
+    </hero>
+    <hero id="517">
+        <name>Phoenix</name>
+        <aliases>
+            <alias>Redd Dayspring</alias>
+            <alias>Marvel Girl</alias>
+        </aliases>
+    </hero>
+    <hero id="518">
+        <name>Plantman</name>
+        <aliases>
+            <alias>Blackheath</alias>
+        </aliases>
+    </hero>
+    <hero id="523">
+        <name>Polaris</name>
+        <aliases>
+            <alias>Pestilence</alias>
+            <alias>formerly Malice</alias>
+            <alias>Polarity</alias>
+            <alias>Magnetrix</alias>
+            <alias>M-2</alias>
+            <alias>Magneto the Second</alias>
+        </aliases>
+    </hero>
+    <hero id="524">
+        <name>Power Girl</name>
+        <aliases>
+            <alias>Karen Starr</alias>
+            <alias>Nightwing</alias>
+        </aliases>
+    </hero>
+    <hero id="526">
+        <name>Predator</name>
+        <aliases>
+            <alias>Hunters</alias>
+            <alias>Yautja</alias>
+            <alias>Hish</alias>
+        </aliases>
+    </hero>
+    <hero id="527">
+        <name>Professor X</name>
+        <aliases>
+            <alias>Prof</alias>
+            <alias>Dr. X</alias>
+            <alias>Professor Xavier</alias>
+            <alias>formerly Prisoner M-13</alias>
+        </aliases>
+    </hero>
+    <hero id="528">
+        <name>Professor Zoom</name>
+        <aliases>
+            <alias>Reverse Flash</alias>
+            <alias>Black Flash</alias>
+            <alias>Adrian Zoom</alias>
+            <alias>Mister Zyx</alias>
+        </aliases>
+    </hero>
+    <hero id="529">
+        <name>Psylocke</name>
+        <aliases>
+            <alias>Betsy</alias>
+            <alias>Captain Britain</alias>
+            <alias>Lady Mandarin</alias>
+        </aliases>
+    </hero>
+    <hero id="530">
+        <name>Punisher</name>
+        <aliases>
+            <alias>Big Nothing</alias>
+            <alias>Major Bateman</alias>
+            <alias>Ted Bishop</alias>
+            <alias>Cliff Callador</alias>
+            <alias>Castigo</alias>
+            <alias>Chaloner</alias>
+            <alias>Fred D'Amato</alias>
+            <alias>Eastman</alias>
+            <alias>Charles Fort</alias>
+            <alias>Frank Loomis</alias>
+            <alias>McRook</alias>
+            <alias>Melchior</alias>
+            <alias>Joe Rainey</alias>
+            <alias>Frank Rook</alias>
+            <alias>Richard Rook</alias>
+            <alias>Tony Knowlen Ross</alias>
+            <alias>Francis Stronghold</alias>
+            <alias>Johnny Tower</alias>
+            <alias>Dmitri Velikoff</alias>
+            <alias>Fra</alias>
+        </aliases>
+    </hero>
+    <hero id="531">
+        <name>Purple Man</name>
+        <aliases>
+            <alias>Kilgrave</alias>
+        </aliases>
+    </hero>
+    <hero id="533">
+        <name>Q</name>
+        <aliases>
+            <alias>Q Continuum</alias>
+        </aliases>
+    </hero>
+    <hero id="535">
+        <name>Question</name>
+        <aliases>
+            <alias>Vic Sage</alias>
+        </aliases>
+    </hero>
+    <hero id="536">
+        <name>Quicksilver</name>
+        <aliases>
+            <alias>Pietro Frank</alias>
+            <alias>Gypsy Davey</alias>
+            <alias>Mateo Maximoff</alias>
+        </aliases>
+    </hero>
+    <hero id="537">
+        <name>Quill</name>
+        <aliases>
+            <alias>Max</alias>
+        </aliases>
+    </hero>
+    <hero id="538">
+        <name>Ra's Al Ghul</name>
+        <aliases>
+            <alias>Demon's Head</alias>
+        </aliases>
+    </hero>
+    <hero id="540">
+        <name>Rambo</name>
+        <aliases>
+            <alias>Raven</alias>
+            <alias>Lone Wolf</alias>
+        </aliases>
+    </hero>
+    <hero id="542">
+        <name>Raven</name>
+        <aliases>
+            <alias>Pride</alias>
+            <alias>Dark Raven</alias>
+        </aliases>
+    </hero>
+    <hero id="545">
+        <name>Red Arrow</name>
+        <aliases>
+            <alias>Arsenal</alias>
+            <alias>Speedy</alias>
+        </aliases>
+    </hero>
+    <hero id="546">
+        <name>Red Hood</name>
+        <aliases>
+            <alias>Robin</alias>
+            <alias>Red Robin</alias>
+            <alias>Batman</alias>
+            <alias>Nightwing</alias>
+            <alias>Arkham Knight</alias>
+        </aliases>
+    </hero>
+    <hero id="547">
+        <name>Red Hulk</name>
+        <aliases>
+            <alias>Rulk</alias>
+            <alias>Hulk</alias>
+            <alias>Thunderbolt</alias>
+            <alias>General Ross</alias>
+        </aliases>
+    </hero>
+    <hero id="548">
+        <name>Red Mist</name>
+        <aliases>
+            <alias>The Red Mist</alias>
+        </aliases>
+    </hero>
+    <hero id="549">
+        <name>Red Robin</name>
+        <aliases>
+            <alias>Alvin Draper</alias>
+            <alias>Batman</alias>
+            <alias>Robin</alias>
+            <alias>Timothy Wayne</alias>
+            <alias>Time Drake</alias>
+        </aliases>
+    </hero>
+    <hero id="550">
+        <name>Red Skull</name>
+        <aliases>
+            <alias>Dell Rusk</alias>
+            <alias>Bettman P. Lyles</alias>
+            <alias>the Agent of a Thousand Faces</alias>
+            <alias>The Man</alias>
+            <alias>Cyrus Fenton</alias>
+            <alias>Teacher</alias>
+            <alias>Tod March</alias>
+            <alias>John Smith</alias>
+            <alias>Aleksander Lukin.</alias>
+        </aliases>
+    </hero>
+    <hero id="551">
+        <name>Red Tornado</name>
+        <aliases>
+            <alias>Ulthoon</alias>
+            <alias>Tornado Tyrant of Rann</alias>
+            <alias>Tornado Champion</alias>
+            <alias>Tornado Man Dreaming</alias>
+            <alias>"Reddy"</alias>
+        </aliases>
+    </hero>
+    <hero id="556">
+        <name>Rhino</name>
+        <aliases>
+            <alias>Alex O'Hirn</alias>
+            <alias>Mecha-Rhino</alias>
+        </aliases>
+    </hero>
+    <hero id="558">
+        <name>Riddler</name>
+        <aliases>
+            <alias>E. Nigma</alias>
+            <alias>Edward E. Nigma</alias>
+        </aliases>
+    </hero>
+    <hero id="559">
+        <name>Rip Hunter</name>
+        <aliases>
+            <alias>Time Lord</alias>
+            <alias>Time Master</alias>
+            <alias>Boppy</alias>
+            <alias>Dr. Hunter</alias>
+            <alias>Mr</alias>
+            <alias>Hunter</alias>
+            <alias>Carter</alias>
+        </aliases>
+    </hero>
+    <hero id="561">
+        <name>Robin</name>
+        <aliases>
+            <alias>Renegade</alias>
+            <alias>The Target</alias>
+            <alias>Freddie Dinardo</alias>
+        </aliases>
+    </hero>
+    <hero id="562">
+        <name>Robin II</name>
+        <aliases>
+            <alias>Red Hood</alias>
+            <alias>Red Robin</alias>
+            <alias>Batman</alias>
+            <alias>Nightwing</alias>
+            <alias>Wingman</alias>
+            <alias>Jaybird</alias>
+            <alias>Arkham Knight</alias>
+        </aliases>
+    </hero>
+    <hero id="563">
+        <name>Robin III</name>
+        <aliases>
+            <alias>Alvin Draper</alias>
+            <alias>Batman</alias>
+            <alias>Robin</alias>
+            <alias>Timothy Wayne</alias>
+        </aliases>
+    </hero>
+    <hero id="564">
+        <name>Robin V</name>
+        <aliases>
+            <alias>Batman</alias>
+            <alias>Damian al Ghul</alias>
+            <alias>Ibn al Xu'ffasch</alias>
+            <alias>Redbird</alias>
+        </aliases>
+    </hero>
+    <hero id="566">
+        <name>Rocket Raccoon</name>
+        <aliases>
+            <alias>Sharpshooting Space Racoon</alias>
+            <alias>Rocky Raccoon</alias>
+            <alias>Ranger Rocket</alias>
+        </aliases>
+    </hero>
+    <hero id="567">
+        <name>Rogue</name>
+        <aliases>
+            <alias>Anna Raven</alias>
+            <alias>Doctor Kellogg</alias>
+            <alias>Mutate 9602</alias>
+            <alias>Irene Adler</alias>
+            <alias>Miss Smith</alias>
+        </aliases>
+    </hero>
+    <hero id="568">
+        <name>Ronin</name>
+        <aliases>
+            <alias>Formerly Hawkeye</alias>
+            <alias>the Marksman</alias>
+            <alias>'Br'er Hawkeye'</alias>
+            <alias>Superhuman Cellblock Prisoner 334556</alias>
+            <alias>Longbow</alias>
+            <alias>Goliath</alias>
+            <alias>Father Time</alias>
+            <alias>Louis</alias>
+            <alias>Robin Hood</alias>
+            <alias>the Hawkeye Kid</alias>
+            <alias>Golden Archer</alias>
+            <alias>'Purple Man'; impersonated Constrictor &amp; Dreadknight</alias>
+        </aliases>
+    </hero>
+    <hero id="570">
+        <name>Sabretooth</name>
+        <aliases>
+            <alias>Slasher</alias>
+            <alias>El Tigre</alias>
+        </aliases>
+    </hero>
+    <hero id="572">
+        <name>Sandman</name>
+        <aliases>
+            <alias>Flint Marko</alias>
+            <alias>Sylvester Mann</alias>
+            <alias>Quarryman</alias>
+        </aliases>
+    </hero>
+    <hero id="573">
+        <name>Sasquatch</name>
+        <aliases>
+            <alias>Box</alias>
+            <alias>Wanda Langkowski</alias>
+        </aliases>
+    </hero>
+    <hero id="574">
+        <name>Sauron</name>
+        <aliases>
+            <alias>Annatar</alias>
+            <alias>Gorthaur the Cruel</alias>
+            <alias>Sauron the Dark</alias>
+            <alias>The Necromancer</alias>
+            <alias>Dark Lord of Mordor</alias>
+            <alias>Lord of the Rings</alias>
+            <alias>The Great Eye</alias>
+        </aliases>
+    </hero>
+    <hero id="577">
+        <name>Scarlet Spider</name>
+        <aliases>
+            <alias>Spider-Clone</alias>
+            <alias>Spider-Man</alias>
+        </aliases>
+    </hero>
+    <hero id="578">
+        <name>Scarlet Spider II</name>
+        <aliases>
+            <alias>Tarantula</alias>
+            <alias>Kaine</alias>
+            <alias>Ara?a Escarlata</alias>
+        </aliases>
+    </hero>
+    <hero id="579">
+        <name>Scarlet Witch</name>
+        <aliases>
+            <alias>Wanda Frank</alias>
+            <alias>Wanda Magnus</alias>
+            <alias>Ana Maximoff</alias>
+            <alias>Gypsy Witch</alias>
+            <alias>The Witch</alias>
+        </aliases>
+    </hero>
+    <hero id="581">
+        <name>Scorpion</name>
+        <aliases>
+            <alias>Venom</alias>
+            <alias>Spider-Man</alias>
+        </aliases>
+    </hero>
+    <hero id="583">
+        <name>Sentry</name>
+        <aliases>
+            <alias>Void</alias>
+            <alias>Bob</alias>
+            <alias>Golden Guardian of Good</alias>
+            <alias>John Victor Williams</alias>
+            <alias>Scout</alias>
+        </aliases>
+    </hero>
+    <hero id="584">
+        <name>Shadow King</name>
+        <aliases>
+            <alias>Professor X</alias>
+            <alias>Ananasi</alias>
+            <alias>Amahl Farouk</alias>
+            <alias>Evil One</alias>
+            <alias>Master of the Games; he also impersonated the following mind-controlled subjects (in chronological order): Alexander Flynn</alias>
+            <alias>Karma</alias>
+            <alias>Cypher</alias>
+            <alias>Jacob Reisz</alias>
+            <alias>Donald Pierce and probably others</alias>
+        </aliases>
+    </hero>
+    <hero id="586">
+        <name>Shadowcat</name>
+        <aliases>
+            <alias>Kitty Pryde</alias>
+            <alias>Ariel</alias>
+            <alias>Sprite</alias>
+            <alias>Cat</alias>
+        </aliases>
+    </hero>
+    <hero id="587">
+        <name>Shang-Chi</name>
+        <aliases>
+            <alias>The Master of Kung Fu; The Rising and Advancing of the Spirit; Chinaman (by Jack Tarr)</alias>
+        </aliases>
+    </hero>
+    <hero id="588">
+        <name>Shatterstar</name>
+        <aliases>
+            <alias>Benjamin Russell</alias>
+        </aliases>
+    </hero>
+    <hero id="589">
+        <name>She-Hulk</name>
+        <aliases>
+            <alias>Jade Giantess</alias>
+        </aliases>
+    </hero>
+    <hero id="590">
+        <name>She-Thing</name>
+        <aliases>
+            <alias>Thing</alias>
+            <alias>Ms Marvel</alias>
+        </aliases>
+    </hero>
+    <hero id="592">
+        <name>Shriek</name>
+        <aliases>
+            <alias>Sandra Deel</alias>
+        </aliases>
+    </hero>
+    <hero id="594">
+        <name>Sif</name>
+        <aliases>
+            <alias>Lady Sif</alias>
+            <alias>Erika Velez</alias>
+            <alias>Mrs. Chambers</alias>
+            <alias>Sybil</alias>
+        </aliases>
+    </hero>
+    <hero id="599">
+        <name>Silverclaw</name>
+        <aliases>
+            <alias>La Garra Argentado</alias>
+            <alias>Daughter of the Volcano God,</alias>
+        </aliases>
+    </hero>
+    <hero id="600">
+        <name>Simon Baz</name>
+        <aliases>
+            <alias>Green Lantern</alias>
+            <alias>White Lantern</alias>
+        </aliases>
+    </hero>
+    <hero id="601">
+        <name>Sinestro</name>
+        <aliases>
+            <alias>Green Lantern</alias>
+            <alias>White Lantern</alias>
+            <alias>Yellow Lantern</alias>
+            <alias>Parallax</alias>
+            <alias>Indigo Lantern</alias>
+        </aliases>
+    </hero>
+    <hero id="604">
+        <name>Siryn</name>
+        <aliases>
+            <alias>Theresa Rourke</alias>
+        </aliases>
+    </hero>
+    <hero id="605">
+        <name>Skaar</name>
+        <aliases>
+            <alias>Savior</alias>
+            <alias>Son of Hulk</alias>
+            <alias>WorldBreaker</alias>
+            <alias>Long Hair</alias>
+            <alias>Little Monster</alias>
+            <alias>Conan</alias>
+        </aliases>
+    </hero>
+    <hero id="607">
+        <name>Snowbird</name>
+        <aliases>
+            <alias>Anne McKenzie-Thompson</alias>
+        </aliases>
+    </hero>
+    <hero id="608">
+        <name>Sobek</name>
+        <aliases>
+            <alias>Sobek the Talking Crocodile; The Unknown in Formless Time Before Time; Famine</alias>
+        </aliases>
+    </hero>
+    <hero id="609">
+        <name>Solomon Grundy</name>
+        <aliases>
+            <alias>Marshland Monster</alias>
+        </aliases>
+    </hero>
+    <hero id="610">
+        <name>Songbird</name>
+        <aliases>
+            <alias>Screaming Mimi</alias>
+            <alias>Mimi Schwartz</alias>
+            <alias>Margie Green</alias>
+        </aliases>
+    </hero>
+    <hero id="611">
+        <name>Space Ghost</name>
+        <aliases>
+            <alias>Ted Ghostel</alias>
+            <alias>Tad Ghostal</alias>
+        </aliases>
+    </hero>
+    <hero id="612">
+        <name>Spawn</name>
+        <aliases>
+            <alias>The One</alias>
+            <alias>Hellspawn</alias>
+        </aliases>
+    </hero>
+    <hero id="613">
+        <name>Spectre</name>
+        <aliases>
+            <alias>Spirit of Vengeance</alias>
+            <alias>Wrath of God</alias>
+            <alias>Spirit of Redemption</alias>
+            <alias>Raguel</alias>
+            <alias>James Corrigan</alias>
+            <alias>Hal Jordan</alias>
+            <alias>Cripus Allen</alias>
+        </aliases>
+    </hero>
+    <hero id="615">
+        <name>Speedy</name>
+        <aliases>
+            <alias>Thea Merlyn</alias>
+            <alias>Mia</alias>
+            <alias>Red Arrow</alias>
+        </aliases>
+    </hero>
+    <hero id="619">
+        <name>Spider-Gwen</name>
+        <aliases>
+            <alias>Spider-Woman</alias>
+        </aliases>
+    </hero>
+    <hero id="620">
+        <name>Spider-Man</name>
+        <aliases>
+            <alias>Spiderman</alias>
+            <alias>Bag-Man</alias>
+            <alias>Black Marvel</alias>
+            <alias>Captain Universe</alias>
+            <alias>Dusk</alias>
+            <alias>Green Hood</alias>
+            <alias>Hornet</alias>
+            <alias>Mad Dog 336</alias>
+            <alias>Peter Palmer</alias>
+            <alias>Prodigy</alias>
+            <alias>Ricochet</alias>
+            <alias>Scarlet Spider</alias>
+            <alias>Spider-Boy</alias>
+            <alias>Spider-Hulk</alias>
+            <alias>Spider-Morphosis</alias>
+        </aliases>
+    </hero>
+    <hero id="623">
+        <name>Spider-Woman</name>
+        <aliases>
+            <alias>Arachne</alias>
+            <alias>Ariadne Hyde</alias>
+            <alias>Dark Angel</alias>
+            <alias>Dark Angel of San Francisco</alias>
+        </aliases>
+    </hero>
+    <hero id="628">
+        <name>Spyke</name>
+        <aliases>
+            <alias>Porcupine</alias>
+            <alias>Armadillo</alias>
+        </aliases>
+    </hero>
+    <hero id="630">
+        <name>Star-Lord</name>
+        <aliases>
+            <alias>Starlord</alias>
+        </aliases>
+    </hero>
+    <hero id="631">
+        <name>Stardust</name>
+        <aliases>
+            <alias>Entity Lambda-Zero</alias>
+        </aliases>
+    </hero>
+    <hero id="632">
+        <name>Starfire</name>
+        <aliases>
+            <alias>Princess Koriand'r</alias>
+            <alias>Kory Anders</alias>
+            <alias>Nova</alias>
+        </aliases>
+    </hero>
+    <hero id="633">
+        <name>Stargirl</name>
+        <aliases>
+            <alias>Star-Spangled Kid</alias>
+            <alias>Star</alias>
+            <alias>Stars</alias>
+        </aliases>
+    </hero>
+    <hero id="634">
+        <name>Static</name>
+        <aliases>
+            <alias>Sparky</alias>
+            <alias>Virg</alias>
+            <alias>V</alias>
+            <alias>V-Man</alias>
+        </aliases>
+    </hero>
+    <hero id="635">
+        <name>Steel</name>
+        <aliases>
+            <alias>Man of Steel</alias>
+            <alias>Henry Johnson</alias>
+        </aliases>
+    </hero>
+    <hero id="637">
+        <name>Steppenwolf</name>
+        <aliases>
+            <alias>Steppenwulf</alias>
+        </aliases>
+    </hero>
+    <hero id="638">
+        <name>Storm</name>
+        <aliases>
+            <alias>Ororo Iqadi T'Challa</alias>
+            <alias>Queen Ororo</alias>
+            <alias>Ororo Komo Wakandas,White Queen</alias>
+            <alias>Weather Witch</alias>
+            <alias>Windrider</alias>
+            <alias>Goddess</alias>
+            <alias>Mistress of the Elements</alias>
+            <alias>Princess of N'Dare</alias>
+            <alias>High Priestess Windrider</alias>
+            <alias>Goddess</alias>
+            <alias>Mistress of the Elements</alias>
+            <alias>Princess of N'Dare</alias>
+            <alias>High Priestess</alias>
+        </aliases>
+    </hero>
+    <hero id="640">
+        <name>Sunspot</name>
+        <aliases>
+            <alias>Robert DaCosta</alias>
+            <alias>Bobby; Black Rook</alias>
+            <alias>Black King</alias>
+            <alias>Reignfire</alias>
+        </aliases>
+    </hero>
+    <hero id="641">
+        <name>Superboy</name>
+        <aliases>
+            <alias>Experiment 13; Superman; Project: Superman; Carl Krummett; Project: Lionel Luthor; The Metropolis Kid</alias>
+            <alias>Superman</alias>
+        </aliases>
+    </hero>
+    <hero id="642">
+        <name>Superboy-Prime</name>
+        <aliases>
+            <alias>Superman-Prime; Prime; Superboy; Clark Kent; Clarkie; Time Trapper</alias>
+        </aliases>
+    </hero>
+    <hero id="643">
+        <name>Supergirl</name>
+        <aliases>
+            <alias>Linda Lang</alias>
+            <alias>Kara-El</alias>
+            <alias>Kara Kent</alias>
+            <alias>Flamebird</alias>
+            <alias>Trinity Child</alias>
+            <alias>Teen of Tomorrow</alias>
+            <alias>The Girl of Steel</alias>
+            <alias>The Maid of Might</alias>
+            <alias>The Princess of Power</alias>
+            <alias>Mighty Maid</alias>
+            <alias>Claire Connors</alias>
+            <alias>Bluebird</alias>
+        </aliases>
+    </hero>
+    <hero id="644">
+        <name>Superman</name>
+        <aliases>
+            <alias>Clark Joseph Kent</alias>
+            <alias>The Man of Steel</alias>
+            <alias>the Man of Tomorrow</alias>
+            <alias>the Last Son of Krypton</alias>
+            <alias>Big Blue</alias>
+            <alias>the Metropolis Marvel</alias>
+            <alias>the Action Ace</alias>
+        </aliases>
+    </hero>
+    <hero id="645">
+        <name>Swamp Thing</name>
+        <aliases>
+            <alias>Green Man</alias>
+            <alias>Swampy</alias>
+            <alias>the Weed</alias>
+            <alias>Le Bon Gumbo</alias>
+            <alias>Smalsh-Yegger (on Rann)</alias>
+        </aliases>
+    </hero>
+    <hero id="647">
+        <name>Sylar</name>
+        <aliases>
+            <alias>Gabriel Sylar</alias>
+            <alias>Drew O'Grady</alias>
+            <alias>Dr. Suresh</alias>
+            <alias>Zane Taylor</alias>
+            <alias>Isaac Mendez</alias>
+        </aliases>
+    </hero>
+    <hero id="649">
+        <name>T-1000</name>
+        <aliases>
+            <alias>T-1001</alias>
+            <alias>T-1002</alias>
+        </aliases>
+    </hero>
+    <hero id="650">
+        <name>T-800</name>
+        <aliases>
+            <alias>Terminator</alias>
+        </aliases>
+    </hero>
+    <hero id="651">
+        <name>T-850</name>
+        <aliases>
+            <alias>Terminator</alias>
+        </aliases>
+    </hero>
+    <hero id="655">
+        <name>Thanos</name>
+        <aliases>
+            <alias>The Mad Titan</alias>
+            <alias>Masterlord</alias>
+            <alias>The Overmaster</alias>
+            <alias>Chins</alias>
+        </aliases>
+    </hero>
+    <hero id="656">
+        <name>The Cape</name>
+        <aliases>
+            <alias>Cape</alias>
+        </aliases>
+    </hero>
+    <hero id="657">
+        <name>The Comedian</name>
+        <aliases>
+            <alias>Eddie Blake</alias>
+        </aliases>
+    </hero>
+    <hero id="658">
+        <name>Thing</name>
+        <aliases>
+            <alias>Blackbeard the Pirate</alias>
+            <alias>Grim Ben</alias>
+            <alias>Dr. Josiah Verpoorteen</alias>
+        </aliases>
+    </hero>
+    <hero id="659">
+        <name>Thor</name>
+        <aliases>
+            <alias>Donald Blake</alias>
+            <alias>Sigurd Jarlson</alias>
+            <alias>Jake Olsen</alias>
+            <alias>Donar the Mighty</alias>
+        </aliases>
+    </hero>
+    <hero id="660">
+        <name>Thor Girl</name>
+        <aliases>
+            <alias>Asgard Lass</alias>
+            <alias>the Designate</alias>
+            <alias>the Destroyer</alias>
+            <alias>Hammerette</alias>
+            <alias>Hammer Girl</alias>
+            <alias>Hammer Lass</alias>
+            <alias>Tara Olson</alias>
+            <alias>Spirit of the Jewel</alias>
+            <alias>the Supreme</alias>
+            <alias>Thoreta</alias>
+            <alias>Thorita</alias>
+            <alias>Thor Lass</alias>
+        </aliases>
+    </hero>
+    <hero id="664">
+        <name>Thunderstrike</name>
+        <aliases>
+            <alias>Thor</alias>
+        </aliases>
+    </hero>
+    <hero id="666">
+        <name>Tiger Shark</name>
+        <aliases>
+            <alias>Arlys Tigershark</alias>
+        </aliases>
+    </hero>
+    <hero id="667">
+        <name>Tigra</name>
+        <aliases>
+            <alias>The Cat</alias>
+            <alias>Greer Sorenson</alias>
+        </aliases>
+    </hero>
+    <hero id="670">
+        <name>Toad</name>
+        <aliases>
+            <alias>The Terrible Toad-King</alias>
+        </aliases>
+    </hero>
+    <hero id="671">
+        <name>Toxin</name>
+        <aliases>
+            <alias>Larry</alias>
+        </aliases>
+    </hero>
+    <hero id="672">
+        <name>Toxin</name>
+        <aliases>
+            <alias>Eddie</alias>
+            <alias>Sister Edwina</alias>
+            <alias>"Ed"</alias>
+            <alias>Edwin Brock</alias>
+            <alias>Venom</alias>
+            <alias>Lethal Protector</alias>
+            <alias>998th</alias>
+            <alias>Anti-Venom</alias>
+            <alias>White Venom</alias>
+        </aliases>
+    </hero>
+    <hero id="676">
+        <name>Triplicate Girl</name>
+        <aliases>
+            <alias>Duo Damsel</alias>
+            <alias>Una</alias>
+            <alias>Triad</alias>
+        </aliases>
+    </hero>
+    <hero id="678">
+        <name>Two-Face</name>
+        <aliases>
+            <alias>Apollo</alias>
+        </aliases>
+    </hero>
+    <hero id="679">
+        <name>Ultragirl</name>
+        <aliases>
+            <alias>Suzy Sherman</alias>
+            <alias>Ultra-Girl</alias>
+        </aliases>
+    </hero>
+    <hero id="680">
+        <name>Ultron</name>
+        <aliases>
+            <alias>Crimson Cowl</alias>
+            <alias>Great Devil</alias>
+            <alias>Great Ultron</alias>
+            <alias>Iron Man</alias>
+            <alias>Mark</alias>
+            <alias>Omega</alias>
+            <alias>Ultimate Ultron</alias>
+            <alias>Ultron-5 (and hundreds of other sequential numerical designations)</alias>
+            <alias>Ultron Mark Twelve</alias>
+            <alias>Ho Yinsen</alias>
+        </aliases>
+    </hero>
+    <hero id="685">
+        <name>Vanisher</name>
+        <aliases>
+            <alias>Telford Porter</alias>
+        </aliases>
+    </hero>
+    <hero id="686">
+        <name>Vegeta</name>
+        <aliases>
+            <alias>Prince Vegeta</alias>
+            <alias>The Saiyan Prince</alias>
+            <alias>The Prince of all Saiyans</alias>
+            <alias>Majin Vegeta</alias>
+            <alias>Bejiita</alias>
+            <alias>Bejiita no Ouji</alias>
+            <alias>Vejita</alias>
+            <alias>Vegita</alias>
+            <alias>Captain Vegeta</alias>
+            <alias>Vegeta-Sama</alias>
+            <alias>Makita (Hebrew dub)</alias>
+            <alias>Bezita (Malaysian dub)</alias>
+            <alias>Super Vegeta</alias>
+        </aliases>
+    </hero>
+    <hero id="689">
+        <name>Venom III</name>
+        <aliases>
+            <alias>Scorpion</alias>
+        </aliases>
+    </hero>
+    <hero id="690">
+        <name>Venompool</name>
+        <aliases>
+            <alias>Deadpool</alias>
+        </aliases>
+    </hero>
+    <hero id="693">
+        <name>Vindicator</name>
+        <aliases>
+            <alias>Guardian</alias>
+        </aliases>
+    </hero>
+    <hero id="696">
+        <name>Violet Parr</name>
+        <aliases>
+            <alias>Vi (nickname)</alias>
+            <alias>The Queen of the Unseen</alias>
+            <alias>Invisagirl (InvisaVi)</alias>
+        </aliases>
+    </hero>
+    <hero id="697">
+        <name>Vision</name>
+        <aliases>
+            <alias>Victor Shade</alias>
+        </aliases>
+    </hero>
+    <hero id="703">
+        <name>War Machine</name>
+        <aliases>
+            <alias>Rhodey</alias>
+            <alias>Iron Man</alias>
+            <alias>Jim Rhodes</alias>
+        </aliases>
+    </hero>
+    <hero id="705">
+        <name>Warlock</name>
+        <aliases>
+            <alias>Him</alias>
+            <alias>(in an alternate future) the Magus</alias>
+        </aliases>
+    </hero>
+    <hero id="707">
+        <name>Warpath</name>
+        <aliases>
+            <alias>Thunderbird</alias>
+        </aliases>
+    </hero>
+    <hero id="708">
+        <name>Wasp</name>
+        <aliases>
+            <alias>Pixie</alias>
+        </aliases>
+    </hero>
+    <hero id="711">
+        <name>White Canary</name>
+        <aliases>
+            <alias>Silk Sister</alias>
+            <alias>Sara Lance</alias>
+        </aliases>
+    </hero>
+    <hero id="713">
+        <name>Wildfire</name>
+        <aliases>
+            <alias>ERG-1</alias>
+            <alias>Atom'x</alias>
+            <alias>Randall Burroughs</alias>
+            <alias>Jahr-Drake Nigle</alias>
+        </aliases>
+    </hero>
+    <hero id="714">
+        <name>Winter Soldier</name>
+        <aliases>
+            <alias>Bucky</alias>
+            <alias>Captain America</alias>
+        </aliases>
+    </hero>
+    <hero id="716">
+        <name>Wolfsbane</name>
+        <aliases>
+            <alias>Grimfang</alias>
+            <alias>Mutate #490</alias>
+        </aliases>
+    </hero>
+    <hero id="717">
+        <name>Wolverine</name>
+        <aliases>
+            <alias>Weapon X</alias>
+            <alias>Weapon Ten</alias>
+            <alias>Death</alias>
+            <alias>Mutate 9601</alias>
+            <alias>Jim Logan</alias>
+            <alias>Emilio Garra</alias>
+            <alias>Weapon Chi</alias>
+            <alias>Experiment X</alias>
+            <alias>Agent Ten</alias>
+            <alias>Peter Richards</alias>
+            <alias>Mai kethLogan</alias>
+            <alias>Mr. Patch</alias>
+        </aliases>
+    </hero>
+    <hero id="718">
+        <name>Wonder Girl</name>
+        <aliases>
+            <alias>Cassandra Sandsmark</alias>
+            <alias>Cassie</alias>
+            <alias>Helen Troy</alias>
+            <alias>Wonder Woman</alias>
+            <alias>Cassie Sandsmark</alias>
+        </aliases>
+    </hero>
+    <hero id="719">
+        <name>Wonder Man</name>
+        <aliases>
+            <alias>Wondie</alias>
+            <alias>JQ-272712-K</alias>
+        </aliases>
+    </hero>
+    <hero id="720">
+        <name>Wonder Woman</name>
+        <aliases>
+            <alias>Princess Diana</alias>
+            <alias>Princess of the Amazons</alias>
+            <alias>Goddess of Truth</alias>
+            <alias> Wondy</alias>
+            <alias>Wonder Girl</alias>
+            <alias>The Amazon Princess</alias>
+        </aliases>
+    </hero>
+    <hero id="723">
+        <name>X-23</name>
+        <aliases>
+            <alias>Laura Logan</alias>
+            <alias>Laura Howlett</alias>
+            <alias>Laura X</alias>
+            <alias>Talon</alias>
+            <alias>Wolverine</alias>
+            <alias>X23</alias>
+        </aliases>
+    </hero>
+    <hero id="724">
+        <name>X-Man</name>
+        <aliases>
+            <alias>Nate the Great</alias>
+        </aliases>
+    </hero>
+    <hero id="726">
+        <name>Yellowjacket</name>
+        <aliases>
+            <alias>Hank Pym</alias>
+        </aliases>
+    </hero>
+    <hero id="728">
+        <name>Ymir</name>
+        <aliases>
+            <alias>Aurgelmir</alias>
+        </aliases>
+    </hero>
+</heroes>

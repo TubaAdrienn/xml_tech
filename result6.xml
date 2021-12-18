@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publishers xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:noNamespaceSchemaLocation="task6.xsd">
+    <publisher>
+        <name>Marvel Comics</name>
+        <character-counts>
+            <villain-count>88</villain-count>
+            <neutral-count>10</neutral-count>
+            <hero-count>170</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Dark Horse Comics</name>
+        <character-counts>
+            <villain-count>6</villain-count>
+            <hero-count>9</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>DC Comics</name>
+        <character-counts>
+            <villain-count>54</villain-count>
+            <neutral-count>12</neutral-count>
+            <hero-count>89</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>NBC - Heroes</name>
+        <character-counts>
+            <villain-count>2</villain-count>
+            <hero-count>8</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Wildstorm</name>
+        <character-counts>
+            <villain-count>1</villain-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Archangel</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Tempest</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Giant-Man</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Toxin</name>
+        <character-counts/>
+    </publisher>
+    <publisher>
+        <name>Angel</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Goliath</name>
+        <character-counts>
+            <hero-count>3</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Oracle</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Spoiler</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Nightwing</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Icon Comics</name>
+        <character-counts>
+            <villain-count>1</villain-count>
+            <hero-count>3</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>SyFy</name>
+        <character-counts>
+            <hero-count>5</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>George Lucas</name>
+        <character-counts>
+            <villain-count>6</villain-count>
+            <hero-count>6</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Meltdown</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Gemini V</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>South Park</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Binary</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>ABC Studios</name>
+        <character-counts>
+            <hero-count>4</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Universal Studios</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Star Trek</name>
+        <character-counts>
+            <hero-count>5</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Evil Deadpool</name>
+        <character-counts>
+            <neutral-count>1</neutral-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>IDW Publishing</name>
+        <character-counts>
+            <hero-count>4</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Deadpool</name>
+        <character-counts>
+            <villain-count>1</villain-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Black Racer</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Speed Demon</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Impulse</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Shueisha</name>
+        <character-counts>
+            <villain-count>1</villain-count>
+            <hero-count>3</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Sony Pictures</name>
+        <character-counts>
+            <hero-count>2</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>J. K. Rowling</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Batgirl III</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Flash IV</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Titan Books</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Phoenix</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Power Woman</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Rebellion</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Iron Lad</name>
+        <character-counts>
+            <villain-count>1</villain-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Power Man</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Image Comics</name>
+        <character-counts>
+            <hero-count>2</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Microsoft</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Boom-Boom</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Batgirl V</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>She-Thing</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Batman II</name>
+        <character-counts>
+            <hero-count>2</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Batgirl</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Jean Grey</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Robin II</name>
+        <character-counts>
+            <neutral-count>1</neutral-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Robin III</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Red Hood</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Red Robin</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>J. R. R. Tolkien</name>
+        <character-counts>
+            <villain-count>1</villain-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Spider-Carnage</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Venom III</name>
+        <character-counts>
+            <villain-count>1</villain-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Ms Marvel II</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Aztar</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Superman Prime One-Million</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Angel Salvadore</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Rune King Thor</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Anti-Venom</name>
+        <character-counts>
+            <villain-count>1</villain-count>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Scorpion</name>
+        <character-counts>
+            <villain-count>1</villain-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Vindicator II</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Anti-Vision</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Thunderbird II</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+    <publisher>
+        <name>Ant-Man</name>
+        <character-counts>
+            <hero-count>1</hero-count>
+        </character-counts>
+    </publisher>
+</publishers>

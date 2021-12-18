@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    
+    <xs:element name="heroes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="hero" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="hero">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="name" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="avg" minOccurs="1" maxOccurs="1"/>
+                <xs:element ref="powerstats" minOccurs="1" maxOccurs="1"/>
+            </xs:sequence>
+            <xs:attribute name="id" type="xs:string" use="required"/>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="powerstats">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="intelligence" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="strength" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="speed" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="power" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="durability" minOccurs="1" maxOccurs="1"/>
+                <xs:element name="combat" minOccurs="1" maxOccurs="1"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    
+</xs:schema>

@@ -1,0 +1,86 @@
+[
+        {
+            "gender": "Female",
+            "name": "Ardina",
+            "powerstat": {
+                "strength": 100,
+                "durability": 80,
+                "combat": 25,
+                "power": 100,
+                "speed": 100,
+                "intelligence": 63
+            }
+        },
+        {
+            "gender": "Male",
+            "name": "Blackwulf",
+            "powerstat": {
+                "strength": 28,
+                "durability": 30,
+                "combat": 25,
+                "power": 69,
+                "speed": 8,
+                "intelligence": 50
+            }
+        },
+        {
+            "gender": "Male",
+            "name": "Century",
+            "powerstat": {
+                "strength": 80,
+                "durability": 64,
+                "combat": 100,
+                "power": 100,
+                "speed": 53,
+                "intelligence": 88
+            }
+        },
+        {
+            "gender": "Male",
+            "name": "Doomsday",
+            "powerstat": {
+                "strength": 100,
+                "durability": 100,
+                "combat": 90,
+                "power": 100,
+                "speed": 67,
+                "intelligence": 75
+            }
+        },
+        {
+            "gender": "Male",
+            "name": "Evilhawk",
+            "powerstat": {
+                "strength": 32,
+                "durability": 70,
+                "combat": 64,
+                "power": 85,
+                "speed": 33,
+                "intelligence": 50
+            }
+        },
+        {
+            "gender": "Female",
+            "name": "Indigo",
+            "powerstat": {
+                "strength": 63,
+                "durability": 50,
+                "combat": 50,
+                "power": 100,
+                "speed": 50,
+                "intelligence": 75
+            }
+        },
+        {
+            "gender": "Male",
+            "name": "Silver Surfer",
+            "powerstat": {
+                "strength": 100,
+                "durability": 90,
+                "combat": 32,
+                "power": 100,
+                "speed": 100,
+                "intelligence": 56
+            }
+        }
+    ]
